@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计"
+              "title": "开发者流程管理技能"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计 的反向链接列表"
+              "title": "开发者流程管理技能 的反向链接列表"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计 的出链列表"
+              "title": "开发者流程管理技能 的出链列表"
             }
           },
           {
@@ -167,20 +166,43 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计 的大纲"
+              "title": "开发者流程管理技能 的大纲"
+            }
+          },
+          {
+            "id": "799f364ee3c7bdb4",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "4eb10a9b368caca2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,11 +213,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f02b539d8fa79437",
+  "active": "ca566131a62a89d4",
   "lastOpenFiles": [
+    "职业规划2025.12.5起/开发者/github使用指南.md",
+    "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
+    "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+    "职业规划2025.12.5起/策展人/策展人.md",
+    "职业规划2025.12.5起/策展人/空间设计 方案设计师.md",
+    "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
     "Excalidraw/Drawing 2024-10-30 15.45.43.excalidraw.md",
     "未命名",
     "未命名.base",
@@ -209,7 +240,6 @@
     "Learn/4b705dc582474dfbedd0d1a0ece31f8e.png",
     "Learn/声纹数据可视化.md",
     "Learn/1a1ad12dbd56df0779ebf42f84f9ab15.png",
-    "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
     "Learn/毕设/逃逸线.md",
     "Learn/毕设/量子蓝星计划（为在世的地球人提供服务）.md",
     "Learn/毕设/过程.md",
@@ -219,11 +249,6 @@
     "日常/日常计划2025.2.16.md",
     "职业规划2025.12.5起/开发者/Pasted image 20251206013803.png",
     "职业规划2025.12.5起/开发者/Pasted image 20251206013651.png",
-    "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
-    "职业规划2025.12.5起/开发者/github使用指南.md",
-    "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
-    "职业规划2025.12.5起/策展人/空间设计 方案设计师.md",
-    "职业规划2025.12.5起/策展人/策展人.md",
     "Excalidraw/游戏大纲/游戏类型.md",
     "Excalidraw/AI/AI管理.md",
     "Excalidraw/AI/comfy.md",
