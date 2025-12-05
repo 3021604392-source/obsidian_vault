@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.60051903114187,
+  "lineSizeMultiplier": 1.46487889273356,
+  "collapse-forces": false,
+  "centerStrength": 0.880622837370242,
+  "repelStrength": 20,
+  "linkStrength": 0.94636678200692,
+  "linkDistance": 124,
+  "scale": 0.5359795996225961,
+  "close": true
+}

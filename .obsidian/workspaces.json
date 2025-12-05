@@ -1,0 +1,195 @@
+{
+  "workspaces": {
+    "1": {
+      "main": {
+        "id": "44c389bb86df9471",
+        "type": "split",
+        "children": [
+          {
+            "id": "5784ec78fd693a4e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3625f792d9f92f26",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "254e27982fc11346",
+        "type": "split",
+        "children": [
+          {
+            "id": "d9babd891ec7605c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "05cec8f540c9943c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1955c6ffae833dba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "00813efb49e6420c",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8bbf68dd42ad2906",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20241012010056.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 309.5
+      },
+      "right": {
+        "id": "bb54f4834ab7ec29",
+        "type": "split",
+        "children": [
+          {
+            "id": "927efbef5c3ac239",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b273cb0dfd0401d9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6db331262a6d00c3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "193fcbeb694e7167",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "2437898fc69a53b7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md"
+                  }
+                }
+              },
+              {
+                "id": "a0f76ec3dd3c1505",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "5da1f9e73c2c8f90",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "random-note:开始漫游笔记": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": true,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "obsidian42-brat:BRAT": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "3625f792d9f92f26",
+      "mtime": "2024-10-12T14:36:06+08:00"
+    }
+  },
+  "active": "1"
+}

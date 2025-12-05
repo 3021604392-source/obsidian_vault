@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "01d5e1a673260579",
+        "id": "aa536d8838f91071",
         "type": "tabs",
         "children": [
           {
-            "id": "afffc0d0043b809e",
+            "id": "ca566131a62a89d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +84,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d1dc3b0e4244055d",
@@ -90,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计 的反向链接列表"
             }
           },
           {
@@ -108,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计 的出链列表"
             }
           },
           {
@@ -150,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "心灵克隆研究所——客制化数智人多维应用数字空间设计 的大纲"
             }
           }
         ]
@@ -176,8 +194,52 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "afffc0d0043b809e",
+  "active": "f02b539d8fa79437",
   "lastOpenFiles": [
-    "新建文本文档.txt"
+    "Excalidraw/Drawing 2024-10-30 15.45.43.excalidraw.md",
+    "未命名",
+    "未命名.base",
+    "Learn/客制化外观.md",
+    "Learn/信息设计.md",
+    "Learn/数智人学习过程.md",
+    "Learn/数据检索过程.md",
+    "Learn/信息可视化.md",
+    "Learn/研究所文化厅.md",
+    "Learn/基于学科领域内的基础理论.md",
+    "Learn/4b705dc582474dfbedd0d1a0ece31f8e.png",
+    "Learn/声纹数据可视化.md",
+    "Learn/1a1ad12dbd56df0779ebf42f84f9ab15.png",
+    "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+    "Learn/毕设/逃逸线.md",
+    "Learn/毕设/量子蓝星计划（为在世的地球人提供服务）.md",
+    "Learn/毕设/过程.md",
+    "Learn/毕设/盖亚庭园计划（为逝者的亲友提供服务）.md",
+    "Learn/毕设/大脑的奖励（梦境，闪回）.md",
+    "Learn/68f2913cd883465839dac2bd90510e29.jpeg",
+    "日常/日常计划2025.2.16.md",
+    "职业规划2025.12.5起/开发者/Pasted image 20251206013803.png",
+    "职业规划2025.12.5起/开发者/Pasted image 20251206013651.png",
+    "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
+    "职业规划2025.12.5起/开发者/github使用指南.md",
+    "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+    "职业规划2025.12.5起/策展人/空间设计 方案设计师.md",
+    "职业规划2025.12.5起/策展人/策展人.md",
+    "Excalidraw/游戏大纲/游戏类型.md",
+    "Excalidraw/AI/AI管理.md",
+    "Excalidraw/AI/comfy.md",
+    "Excalidraw/AI/sd.md",
+    "未命名.md",
+    "未命名 1.base",
+    "职业规划2025.12.5起/策展人",
+    "职业规划2025.12.5起/开发者",
+    "职业规划2025.12.5起",
+    "日语",
+    "日常",
+    "Learn/毕设",
+    "Learn/Pasted image 20241012044349.png",
+    "Learn/Pasted image 20241012150522.png",
+    "Learn/Pasted image 20241012043614.png",
+    "Learn/Pasted image 20241012045017.png",
+    "Learn"
   ]
 }
