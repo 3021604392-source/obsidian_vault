@@ -11,24 +11,10 @@
             "id": "ca566131a62a89d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "开发者流程管理技能"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,18 +200,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca566131a62a89d4",
+  "active": "15ea819c477cd521",
   "lastOpenFiles": [
-    "职业规划2025.12.5起/开发者/github使用指南.md",
-    "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
-    "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+    "Learn/毕设/过程.md",
+    "Learn/基于学科领域内的基础理论.md",
+    "Excalidraw/AI/AI管理.md",
+    "Excalidraw/AI/AI软件.md",
+    "职业规划2025.12.5起/职业规划2025起.md",
     "职业规划2025.12.5起/策展人/策展人.md",
-    "职业规划2025.12.5起/策展人/空间设计 方案设计师.md",
+    "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
+    "职业规划2025.12.5起/开发者/github使用指南.md",
+    "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+    "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
     "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
     "Excalidraw/Drawing 2024-10-30 15.45.43.excalidraw.md",
     "未命名",
@@ -236,13 +226,11 @@
     "Learn/数据检索过程.md",
     "Learn/信息可视化.md",
     "Learn/研究所文化厅.md",
-    "Learn/基于学科领域内的基础理论.md",
     "Learn/4b705dc582474dfbedd0d1a0ece31f8e.png",
     "Learn/声纹数据可视化.md",
     "Learn/1a1ad12dbd56df0779ebf42f84f9ab15.png",
     "Learn/毕设/逃逸线.md",
     "Learn/毕设/量子蓝星计划（为在世的地球人提供服务）.md",
-    "Learn/毕设/过程.md",
     "Learn/毕设/盖亚庭园计划（为逝者的亲友提供服务）.md",
     "Learn/毕设/大脑的奖励（梦境，闪回）.md",
     "Learn/68f2913cd883465839dac2bd90510e29.jpeg",
@@ -250,10 +238,8 @@
     "职业规划2025.12.5起/开发者/Pasted image 20251206013803.png",
     "职业规划2025.12.5起/开发者/Pasted image 20251206013651.png",
     "Excalidraw/游戏大纲/游戏类型.md",
-    "Excalidraw/AI/AI管理.md",
     "Excalidraw/AI/comfy.md",
     "Excalidraw/AI/sd.md",
-    "未命名.md",
     "未命名 1.base",
     "职业规划2025.12.5起/策展人",
     "职业规划2025.12.5起/开发者",
