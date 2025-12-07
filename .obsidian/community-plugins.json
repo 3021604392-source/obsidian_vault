@@ -1,4 +1,11 @@
 [
   "obsidian-git",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "notebook-navigator",
+  "keyboard-analyzer",
+  "obsidian-minimal-settings",
+  "floating-toc",
+  "obsidian-style-settings",
+  "editing-toolbar",
+  "dust-calendar"
 ]

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "aa536d8838f91071",
+        "id": "162410f5cf1c4fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "ca566131a62a89d4",
+            "id": "d0546d235cabedb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "职业规划2025.12.5起/开发者/github使用指南.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "github使用指南"
             }
           }
         ]
@@ -69,12 +83,23 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "615c21a8dc31dff2",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "笔记本导航器"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "d1dc3b0e4244055d",
@@ -182,14 +207,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5444058aba531f88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,22 +235,26 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:笔记本导航器": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "15ea819c477cd521",
+  "active": "bea193041ba003bd",
   "lastOpenFiles": [
-    "Learn/毕设/过程.md",
-    "Learn/基于学科领域内的基础理论.md",
-    "Excalidraw/AI/AI管理.md",
-    "Excalidraw/AI/AI软件.md",
+    "2025-12-08.md",
     "职业规划2025.12.5起/职业规划2025起.md",
     "职业规划2025.12.5起/策展人/策展人.md",
     "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
+    "Learn/毕设/过程.md",
+    "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+    "Learn/研究所文化厅.md",
+    "Learn/基于学科领域内的基础理论.md",
+    "Excalidraw/AI/AI管理.md",
+    "Excalidraw/AI/AI软件.md",
     "职业规划2025.12.5起/开发者/github使用指南.md",
     "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
     "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
-    "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
     "Excalidraw/Drawing 2024-10-30 15.45.43.excalidraw.md",
     "未命名",
     "未命名.base",
@@ -225,7 +263,6 @@
     "Learn/数智人学习过程.md",
     "Learn/数据检索过程.md",
     "Learn/信息可视化.md",
-    "Learn/研究所文化厅.md",
     "Learn/4b705dc582474dfbedd0d1a0ece31f8e.png",
     "Learn/声纹数据可视化.md",
     "Learn/1a1ad12dbd56df0779ebf42f84f9ab15.png",
@@ -239,7 +276,6 @@
     "职业规划2025.12.5起/开发者/Pasted image 20251206013651.png",
     "Excalidraw/游戏大纲/游戏类型.md",
     "Excalidraw/AI/comfy.md",
-    "Excalidraw/AI/sd.md",
     "未命名 1.base",
     "职业规划2025.12.5起/策展人",
     "职业规划2025.12.5起/开发者",

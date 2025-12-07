@@ -1,1 +1,6 @@
-{}
+{
+  "showRibbon": true,
+  "accentColor": "#ff8aa1",
+  "nativeMenus": true,
+  "cssTheme": "Border"
+}
