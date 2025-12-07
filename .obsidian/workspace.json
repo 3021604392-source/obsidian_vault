@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0546d235cabedb0",
+            "id": "0eaaed75dc8a8074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "职业规划2025.12.5起/开发者/github使用指南.md",
+                "file": "Learn/obsidian使用指南/使用指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "github使用指南"
+              "title": "使用指南"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,56 +236,56 @@
       "audio-recorder:开始/结束录音": false,
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bea193041ba003bd",
+  "active": "0eaaed75dc8a8074",
   "lastOpenFiles": [
+    "2025归档/毕设/1a1ad12dbd56df0779ebf42f84f9ab15.png",
+    "Learn/obsidian使用指南/使用指南.md",
+    "2025归档",
+    "Learn/obsidian使用指南/2025.12.8.md",
+    "2025归档/毕设/Pasted image 20241012150522.png",
     "2025-12-08.md",
+    "职业规划2025.12.5起/开发者/github使用指南.md",
+    "2025归档/毕设/过程.md",
+    "日语/晚课碎片内容.md",
+    "Learn/obsidian使用指南",
     "职业规划2025.12.5起/职业规划2025起.md",
     "职业规划2025.12.5起/策展人/策展人.md",
     "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
-    "Learn/毕设/过程.md",
-    "Learn/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
-    "Learn/研究所文化厅.md",
-    "Learn/基于学科领域内的基础理论.md",
+    "2025归档/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
+    "2025归档/毕设/研究所文化厅.md",
+    "2025归档/毕设/基于学科领域内的基础理论.md",
     "Excalidraw/AI/AI管理.md",
     "Excalidraw/AI/AI软件.md",
-    "职业规划2025.12.5起/开发者/github使用指南.md",
     "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
     "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
     "Excalidraw/Drawing 2024-10-30 15.45.43.excalidraw.md",
-    "未命名",
     "未命名.base",
-    "Learn/客制化外观.md",
-    "Learn/信息设计.md",
-    "Learn/数智人学习过程.md",
-    "Learn/数据检索过程.md",
-    "Learn/信息可视化.md",
-    "Learn/4b705dc582474dfbedd0d1a0ece31f8e.png",
-    "Learn/声纹数据可视化.md",
-    "Learn/1a1ad12dbd56df0779ebf42f84f9ab15.png",
-    "Learn/毕设/逃逸线.md",
-    "Learn/毕设/量子蓝星计划（为在世的地球人提供服务）.md",
-    "Learn/毕设/盖亚庭园计划（为逝者的亲友提供服务）.md",
-    "Learn/毕设/大脑的奖励（梦境，闪回）.md",
-    "Learn/68f2913cd883465839dac2bd90510e29.jpeg",
-    "日常/日常计划2025.2.16.md",
+    "2025归档/毕设/客制化外观.md",
+    "2025归档/毕设/信息设计.md",
+    "2025归档/毕设/数智人学习过程.md",
+    "2025归档/毕设/数据检索过程.md",
+    "2025归档/毕设/信息可视化.md",
+    "2025归档/毕设/4b705dc582474dfbedd0d1a0ece31f8e.png",
+    "2025归档/毕设/声纹数据可视化.md",
+    "2025归档/毕设/逃逸线.md",
+    "2025归档/毕设/量子蓝星计划（为在世的地球人提供服务）.md",
+    "2025归档/毕设/盖亚庭园计划（为逝者的亲友提供服务）.md",
+    "2025归档/毕设/68f2913cd883465839dac2bd90510e29.jpeg",
     "职业规划2025.12.5起/开发者/Pasted image 20251206013803.png",
     "职业规划2025.12.5起/开发者/Pasted image 20251206013651.png",
-    "Excalidraw/游戏大纲/游戏类型.md",
-    "Excalidraw/AI/comfy.md",
     "未命名 1.base",
     "职业规划2025.12.5起/策展人",
     "职业规划2025.12.5起/开发者",
     "职业规划2025.12.5起",
     "日语",
     "日常",
-    "Learn/毕设",
-    "Learn/Pasted image 20241012044349.png",
-    "Learn/Pasted image 20241012150522.png",
-    "Learn/Pasted image 20241012043614.png",
-    "Learn/Pasted image 20241012045017.png",
-    "Learn"
+    "2025归档/毕设",
+    "2025归档/毕设/Pasted image 20241012044349.png",
+    "2025归档/毕设/Pasted image 20241012043614.png",
+    "2025归档/毕设/Pasted image 20241012045017.png"
   ]
 }
