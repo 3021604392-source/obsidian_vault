@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "162410f5cf1c4fc9",
+        "id": "13c69dde8e06ab0c",
         "type": "tabs",
         "children": [
           {
-            "id": "0eaaed75dc8a8074",
+            "id": "b31eac7d1a7eb136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/obsidian使用指南/使用指南.md",
+                "file": "每日塔罗频道/2025-12-14 塔占.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "使用指南"
+              "title": "2025-12-14 塔占"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+                "file": "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发者流程管理技能 的大纲"
+              "title": "2025.12.8 无需纠结格式和排版 的大纲"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md"
+                "file": "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -216,23 +216,33 @@
               "icon": "lucide-calendar-check",
               "title": "日历"
             }
+          },
+          {
+            "id": "f95f5075e6e00ee9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "audio-recorder:开始/结束录音": false,
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
@@ -240,52 +250,53 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0eaaed75dc8a8074",
+  "active": "f95f5075e6e00ee9",
   "lastOpenFiles": [
-    "2025归档/毕设/1a1ad12dbd56df0779ebf42f84f9ab15.png",
-    "Learn/obsidian使用指南/使用指南.md",
-    "2025归档",
-    "Learn/obsidian使用指南/2025.12.8.md",
-    "2025归档/毕设/Pasted image 20241012150522.png",
+    "每日塔罗频道/2025-12-17.md",
+    "每日塔罗频道/2025-12-14 塔占.md",
+    "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
+    "职业规划2025.12.5起/策展人/策展人.md",
+    "职业规划2025.12.5起/职业规划2025起.md",
+    "职业规划2025.12.5起/互联网营销.md",
+    "2026-03-26 断联向 他在做回归的准备.md",
+    "2026-03-24.md",
+    "2026-01-29.md",
+    "2025-12-10.md",
+    "2025-12-20.md",
+    "2025-12-30.md",
+    "2025-12-17.md",
+    "未命名.md",
+    "每日塔罗频道/未命名.md",
+    "Learn/obsidian使用指南/重启ob的使用指南.md",
+    "日常/未命名",
+    "舞蹈/搭建街舞系统.md",
+    "舞蹈/assets/搭建街舞系统",
+    "舞蹈/assets/搭建街舞系统/file-20251216064242238.png",
+    "舞蹈/assets/未命名",
+    "舞蹈/assets",
+    "每日塔罗频道",
+    "灵感碎片/2025-12-15 soul社交总结.md",
+    "舞蹈",
+    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933555.jpg",
+    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933493.jpg",
+    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933409.jpg",
+    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933380.jpg",
+    "每日塔罗频道/assets/2025-12-14 塔占",
+    "每日塔罗频道/assets",
+    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620244.jpg",
+    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620243.jpg",
+    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620239.jpg",
+    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620268.jpg",
+    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620247.jpg",
+    "灵感碎片/assets/2025-12-15 soul社交总结",
+    "灵感碎片/assets",
+    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
+    "2025归档/毕设/声纹数据可视化.md",
+    "2025归档/日常计划2025.2.16.md",
+    "2025归档/毕设/过程.md",
+    "2025归档/毕设/大脑的奖励（梦境，闪回）.md",
     "2025-12-08.md",
     "职业规划2025.12.5起/开发者/github使用指南.md",
-    "2025归档/毕设/过程.md",
-    "日语/晚课碎片内容.md",
-    "Learn/obsidian使用指南",
-    "职业规划2025.12.5起/职业规划2025起.md",
-    "职业规划2025.12.5起/策展人/策展人.md",
-    "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
-    "2025归档/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
-    "2025归档/毕设/研究所文化厅.md",
-    "2025归档/毕设/基于学科领域内的基础理论.md",
-    "Excalidraw/AI/AI管理.md",
-    "Excalidraw/AI/AI软件.md",
-    "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
-    "职业规划2025.12.5起/开发者/Pasted image 20251205033807.png",
-    "Excalidraw/Drawing 2024-10-30 15.45.43.excalidraw.md",
-    "未命名.base",
-    "2025归档/毕设/客制化外观.md",
-    "2025归档/毕设/信息设计.md",
-    "2025归档/毕设/数智人学习过程.md",
-    "2025归档/毕设/数据检索过程.md",
-    "2025归档/毕设/信息可视化.md",
-    "2025归档/毕设/4b705dc582474dfbedd0d1a0ece31f8e.png",
-    "2025归档/毕设/声纹数据可视化.md",
-    "2025归档/毕设/逃逸线.md",
-    "2025归档/毕设/量子蓝星计划（为在世的地球人提供服务）.md",
-    "2025归档/毕设/盖亚庭园计划（为逝者的亲友提供服务）.md",
-    "2025归档/毕设/68f2913cd883465839dac2bd90510e29.jpeg",
-    "职业规划2025.12.5起/开发者/Pasted image 20251206013803.png",
-    "职业规划2025.12.5起/开发者/Pasted image 20251206013651.png",
-    "未命名 1.base",
-    "职业规划2025.12.5起/策展人",
-    "职业规划2025.12.5起/开发者",
-    "职业规划2025.12.5起",
-    "日语",
-    "日常",
-    "2025归档/毕设",
-    "2025归档/毕设/Pasted image 20241012044349.png",
-    "2025归档/毕设/Pasted image 20241012043614.png",
-    "2025归档/毕设/Pasted image 20241012045017.png"
+    "日语/晚课碎片内容.md"
   ]
 }
