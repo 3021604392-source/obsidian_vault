@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f1a53a12e6e2ceeb",
+        "id": "4ee08ffd592d2569",
         "type": "tabs",
         "children": [
           {
-            "id": "860bb0b58041aa0f",
+            "id": "756d4023f520db3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "占卜系统/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母"
             }
           }
         ]
@@ -80,12 +94,11 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "right": {
     "id": "d1dc3b0e4244055d",
@@ -238,10 +251,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "615c21a8dc31dff2",
+  "active": "756d4023f520db3c",
   "lastOpenFiles": [
+    "占卜系统/78张大阿卡纳塔罗故事.md",
+    "应聘offer典籍.md",
+    "2025-12-10.md",
+    "占卜系统/assets/78张大阿卡纳塔罗故事",
+    "占卜系统/assets/78张大阿卡纳",
     "占卜系统/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母.md",
-    "占卜系统/未命名.md",
+    "占卜系统/assets/78张大阿卡纳塔罗故事/file-20260330013643504.png",
+    "占卜系统/assets/未命名",
+    "简历修改方向.md",
+    "未命名.base",
+    "Learn/obsidian使用指南/AttachFlow 插件.md",
+    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
+    "Learn/obsidian使用指南/重启ob的使用指南.md",
+    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
+    "职业规划2025.12.5起/职业规划2025起.md",
+    "职业规划2025.12.5起/互联网营销.md",
+    "职业规划2025.12.5起/策展人/策展人.md",
+    "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
+    "舞蹈/搭建街舞系统.md",
+    "舞蹈/assets/搭建街舞系统/file-20251216064242238.png",
+    "日语/晚课碎片内容.md",
+    "每日塔罗频道/2025-12-17.md",
+    "每日塔罗频道/2025-12-14 塔占.md",
+    "Learn/obsidian使用指南/外观插件合集.md",
+    "灵感碎片/长江随笔.md",
+    "灵感碎片/2025-12-15 soul社交总结.md",
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194623364.png",
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194557933.png",
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194546152.png",
@@ -250,41 +287,16 @@
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194503758.png",
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194358102.png",
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194314182.png",
-    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194257593.png",
-    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194239222.png",
     "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母",
     "占卜系统/2026-03-28 简易卜筮教程：占星骰子.md",
-    "Learn/obsidian使用指南/外观插件合集.md",
     "2026-03-29.md",
     "占卜系统/assets/2026-03-28 简易卜筮教程：占星骰子",
     "占卜系统/assets",
     "Learn/obsidian使用指南/assets/外观插件合集/file-20260329170010131.mp4",
-    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
-    "Learn/obsidian使用指南/重启ob的使用指南.md",
-    "Learn/obsidian使用指南/AttachFlow 插件.md",
     "Learn/obsidian使用指南/assets/外观插件合集",
     "2025归档/毕设/数据传输过程.md",
-    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
     "2026-03-26 断联向 他在做回归的准备.md",
     "未命名 1.base",
-    "未命名.base",
-    "每日塔罗频道/2025-12-17.md",
-    "日语/晚课碎片内容.md",
-    "灵感碎片/2025-12-15 soul社交总结.md",
-    "2026-03-24.md",
-    "每日塔罗频道/2025-12-14 塔占.md",
-    "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
-    "职业规划2025.12.5起/策展人/策展人.md",
-    "职业规划2025.12.5起/职业规划2025起.md",
-    "职业规划2025.12.5起/互联网营销.md",
-    "2026-01-29.md",
-    "2025-12-10.md",
-    "2025-12-20.md",
-    "2025-12-30.md",
-    "2025-12-17.md",
-    "每日塔罗频道/未命名.md",
-    "日常/未命名",
-    "舞蹈/assets/搭建街舞系统",
-    "舞蹈/assets/未命名"
+    "2026-03-24.md"
   ]
 }

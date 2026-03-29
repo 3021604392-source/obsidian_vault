@@ -3,7 +3,7 @@
   "attachmentRenameMode": "All",
   "collectAttachmentUsedByMultipleNotesMode": "Skip",
   "collectedAttachmentFileName": "",
-  "convertImagesToJpegMode": "None",
+  "convertImagesToJpegMode": "All images",
   "customTokensStr": "",
   "defaultImageSize": "",
   "defaultImageSizeDimension": "width",
