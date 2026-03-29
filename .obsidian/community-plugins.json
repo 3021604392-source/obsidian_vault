@@ -9,5 +9,8 @@
   "editing-toolbar",
   "dust-calendar",
   "copilot",
-  "metadata-menu"
+  "metadata-menu",
+  "attachment-flow-plugin",
+  "dataview",
+  "templater-obsidian"
 ]

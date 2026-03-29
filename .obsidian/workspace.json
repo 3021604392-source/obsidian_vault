@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "13c69dde8e06ab0c",
+        "id": "f1a53a12e6e2ceeb",
         "type": "tabs",
         "children": [
           {
-            "id": "b31eac7d1a7eb136",
+            "id": "860bb0b58041aa0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日塔罗频道/2025-12-14 塔占.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-14 塔占"
+              "title": "新标签页"
             }
           }
         ]
@@ -90,15 +76,16 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
+              "icon": "notebook-navigator",
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 257.5
   },
   "right": {
     "id": "d1dc3b0e4244055d",
@@ -247,56 +234,57 @@
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
       "workspaces:管理工作区布局": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f95f5075e6e00ee9",
+  "active": "615c21a8dc31dff2",
   "lastOpenFiles": [
+    "占卜系统/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母.md",
+    "占卜系统/未命名.md",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194623364.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194557933.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194546152.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194540285.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194530262.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194503758.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194358102.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194314182.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194257593.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母/file-20260329194239222.png",
+    "占卜系统/assets/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母",
+    "占卜系统/2026-03-28 简易卜筮教程：占星骰子.md",
+    "Learn/obsidian使用指南/外观插件合集.md",
+    "2026-03-29.md",
+    "占卜系统/assets/2026-03-28 简易卜筮教程：占星骰子",
+    "占卜系统/assets",
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260329170010131.mp4",
+    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
+    "Learn/obsidian使用指南/重启ob的使用指南.md",
+    "Learn/obsidian使用指南/AttachFlow 插件.md",
+    "Learn/obsidian使用指南/assets/外观插件合集",
+    "2025归档/毕设/数据传输过程.md",
+    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
+    "2026-03-26 断联向 他在做回归的准备.md",
+    "未命名 1.base",
+    "未命名.base",
     "每日塔罗频道/2025-12-17.md",
+    "日语/晚课碎片内容.md",
+    "灵感碎片/2025-12-15 soul社交总结.md",
+    "2026-03-24.md",
     "每日塔罗频道/2025-12-14 塔占.md",
     "职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
     "职业规划2025.12.5起/策展人/策展人.md",
     "职业规划2025.12.5起/职业规划2025起.md",
     "职业规划2025.12.5起/互联网营销.md",
-    "2026-03-26 断联向 他在做回归的准备.md",
-    "2026-03-24.md",
     "2026-01-29.md",
     "2025-12-10.md",
     "2025-12-20.md",
     "2025-12-30.md",
     "2025-12-17.md",
-    "未命名.md",
     "每日塔罗频道/未命名.md",
-    "Learn/obsidian使用指南/重启ob的使用指南.md",
     "日常/未命名",
-    "舞蹈/搭建街舞系统.md",
     "舞蹈/assets/搭建街舞系统",
-    "舞蹈/assets/搭建街舞系统/file-20251216064242238.png",
-    "舞蹈/assets/未命名",
-    "舞蹈/assets",
-    "每日塔罗频道",
-    "灵感碎片/2025-12-15 soul社交总结.md",
-    "舞蹈",
-    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933555.jpg",
-    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933493.jpg",
-    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933409.jpg",
-    "每日塔罗频道/assets/2025-12-14 塔占/file-20251216063933380.jpg",
-    "每日塔罗频道/assets/2025-12-14 塔占",
-    "每日塔罗频道/assets",
-    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620244.jpg",
-    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620243.jpg",
-    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620239.jpg",
-    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620268.jpg",
-    "灵感碎片/assets/2025-12-15 soul社交总结/file-20251216063620247.jpg",
-    "灵感碎片/assets/2025-12-15 soul社交总结",
-    "灵感碎片/assets",
-    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
-    "2025归档/毕设/声纹数据可视化.md",
-    "2025归档/日常计划2025.2.16.md",
-    "2025归档/毕设/过程.md",
-    "2025归档/毕设/大脑的奖励（梦境，闪回）.md",
-    "2025-12-08.md",
-    "职业规划2025.12.5起/开发者/github使用指南.md",
-    "日语/晚课碎片内容.md"
+    "舞蹈/assets/未命名"
   ]
 }
