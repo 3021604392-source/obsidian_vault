@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43e0d222000be073",
+        "id": "ece2f2c3d2d35c45",
         "type": "tabs",
         "children": [
           {
-            "id": "c30a3933f28d576e",
+            "id": "3d0d3fad6cfca9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日语/跟读对话记日语单词/跟读对话记日语单词.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "跟读对话记日语单词"
-            }
-          },
-          {
-            "id": "2a8b216ceb0ce38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-04-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-05"
+              "title": "新标签页"
             }
           }
         ]
@@ -118,8 +80,7 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,6 +157,18 @@
             }
           },
           {
+            "id": "d8e8909774cc9275",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
+          },
+          {
             "id": "cc6f840bb785e3f7",
             "type": "leaf",
             "state": {
@@ -251,23 +224,13 @@
               "icon": "lucide-ghost",
               "title": "copilot-chat-view"
             }
-          },
-          {
-            "id": "d8e8909774cc9275",
-            "type": "leaf",
-            "state": {
-              "type": "calendar-view",
-              "state": {},
-              "icon": "lucide-calendar-check",
-              "title": "日历"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,10 +249,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c30a3933f28d576e",
+  "active": "3d0d3fad6cfca9ec",
   "lastOpenFiles": [
-    "日语/常用语积累/2026-04-04 商务日语邮件.md",
     "2026-04-05.md",
+    "4.4计划.md",
+    "日语/跟读对话记日语单词/跟读对话记日语单词.md",
+    "日语/常用语积累/2026-04-04 商务日语邮件.md",
     "assets/2026-04-05/file-20260405002925885.jpg",
     "assets/2026-04-05",
     "assets",
@@ -305,13 +270,11 @@
     "2025归档/毕设/Pasted image 20241012042905.png",
     "2025归档/毕设/Pasted image 20241012005945.png",
     "2025归档/毕设/1a1ad12dbd56df0779ebf42f84f9ab15.png",
-    "日语/跟读对话记日语单词/跟读对话记日语单词.md",
     "2026-04-04 你所理解的现实，并不是实相，而是你所在的维度，允许你感知的一部分。 就像二维世界的生物，无法理解三维世界的深度！.md",
     "术数系统/78张大阿卡纳塔罗故事.md",
     "日语/跟读对话记日语单词/assets/跟读对话记日语单词/file-20260404062025212.jpg",
     "日语/跟读对话记日语单词/assets/跟读对话记日语单词",
     "日语/跟读对话记日语单词/assets",
-    "4.4计划.md",
     "单词学习法.md",
     "日语/常用语积累",
     "日语/跟读对话记日语单词",
