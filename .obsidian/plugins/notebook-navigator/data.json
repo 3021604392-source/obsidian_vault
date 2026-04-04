@@ -414,7 +414,11 @@
   "fileBackgroundColors": {},
   "folderIcons": {},
   "folderColors": {
-    "职业规划2025.12.5起": "#3b82f6"
+    "职业规划2025.12.5起": "#3b82f6",
+    "术数系统": "#14b8a6",
+    "日语": "#f97316",
+    "Learn/obsidian使用指南": "#ec4899",
+    "/": "#06b6d4"
   },
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
