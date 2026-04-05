@@ -11,10 +11,24 @@
             "id": "3d0d3fad6cfca9ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-04-05"
             }
           }
         ]
@@ -226,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -251,6 +265,7 @@
   },
   "active": "3d0d3fad6cfca9ec",
   "lastOpenFiles": [
+    "2026-04-06.md",
     "2026-04-05.md",
     "4.4计划.md",
     "日语/跟读对话记日语单词/跟读对话记日语单词.md",
