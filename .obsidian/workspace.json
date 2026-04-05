@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-04-06"
             }
+          },
+          {
+            "id": "32211652c222c843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,9 +288,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d0d3fad6cfca9ec",
+  "active": "32211652c222c843",
   "lastOpenFiles": [
     "2026-04-06.md",
+    "conflict-files-obsidian-git.md",
+    "“沟通”不是关键，其实“意愿”才是.md",
+    "assets/2026-04-05 运行obsidian中的git插件教程/file-20260405063302073.jpg",
+    "assets/2026-04-05 运行obsidian中的git插件教程",
+    "2026-04-05 运行obsidian中的git插件教程.md",
+    "2026-04-05 打金软件.md",
+    "2026-04-04 计划通.md",
     "2026-04-05.md",
     "4.4计划.md",
     "日语/跟读对话记日语单词/跟读对话记日语单词.md",
@@ -297,19 +329,12 @@
     "职业规划2025.12.5起/互联网营销.md",
     "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
     "职业规划2025.12.5起/开发者/github使用指南.md",
-    "职业规划2025.12.5起/开发者/assets/开发者流程管理技能/file-20260404041158437.jpg",
     "职业规划2025.12.5起/开发者/assets/github使用指南",
     "职业规划2025.12.5起/开发者/assets/新建文件夹",
     "职业规划2025.12.5起/开发者/assets/开发者流程管理技能",
-    "职业规划2025.12.5起/开发者/assets",
     "职业规划2025.12.5起/创业合伙人攻略 3.29.md",
     "术数系统/盲派/八字墓库.md",
     "灵感碎片/2026-04-01.md",
-    "每日塔罗频道/2026-04-02 顺行性失忆.md",
-    "每日塔罗频道/2026-03-26 断联向 他在做回归的准备.md",
-    "空间搭建/装修材料/全屋定制的板材 2026-04-03.md",
-    "每日塔罗频道/2025-12-14 塔占.md",
-    "每日塔罗频道/2025-12-17.md",
-    "术数系统/B站视频收藏夹下载到第6页.md"
+    "每日塔罗频道/2026-04-02 顺行性失忆.md"
   ]
 }

@@ -1,0 +1,59 @@
+# ====================== Obsidian 系统文件 ======================
+# 工作区布局（多设备冲突源）
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+# 缓存与临时配置
+.obsidian/cache/
+.obsidian/app.json
+.obsidian/appearance.json
+# 插件目录（默认忽略，如需同步指定插件，用!取反）
+.obsidian/plugins/
+# 主题目录（如需同步主题，可删除该行）
+.obsidian/themes/
+# 图标缓存
+.obsidian/icon-cache/
+# ====================== 插件数据/状态文件（推荐忽略） ======================
+# 最近文件插件 数据缓存
+.obsidian/plugins/recent-files-obsidian/data.json
+# 日记插件 配置文件
+.obsidian/daily-notes.json
+# Facets 插件 配置文件
+.obsidian/facets.json
+# 星标文件 配置文件
+.obsidian/starred.json
+
+# ====================== 重要：保留的插件配置（请勿取消注释） ======================
+# Obsidian Git 插件配置（存储仓库地址、同步设置，必须保留同步）
+.obsidian/plugins/obsidian-git/data.json
+# 通用插件数据模板（按需取消注释使用）
+.obsidian/plugins/some-plugin/data.json
+
+# ====================== 系统文件 ======================
+# macOS
+.DS_Store
+.AppleDouble
+# Windows
+Thumbs.db
+Desktop.ini
+# Linux
+.fuse_hidden*
+.directory
+.obsidian/workspace-mobile.json
+# ====================== 临时/交换文件 ======================
+*.tmp
+*.swp
+*~$*
+*.log
+.trash/
+.obsidian/trash/
+
+# ====================== 大型二进制文件（可选） ======================
+# 避免仓库过大，忽略大文件
+*.psd
+*.ai
+*.mp4
+*.mov
+*.zip
+*.7z
+*.rar
