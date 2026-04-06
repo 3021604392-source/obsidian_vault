@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "库冲突合并迁移全过程.md",
+                "file": "Learn/obsidian使用指南/库冲突合并迁移全过程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "夫妻宫，看的根本就不是配偶.md",
+                "file": "Learn/obsidian使用指南/运行obsidian中的git插件教程2026-04-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "夫妻宫，看的根本就不是配偶"
+              "title": "运行obsidian中的git插件教程2026-04-05"
+            }
+          },
+          {
+            "id": "62f57b677ec1c275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "针灸的产生原始目的不是用来治病的（需对照原文审核.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "针灸的产生原始目的不是用来治病的（需对照原文审核"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,21 +313,26 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "32211652c222c843",
+  "active": "62f57b677ec1c275",
   "lastOpenFiles": [
+    "全宇宙最牛的all-in-one计划本（待整理.md",
+    "针灸的产生原始目的不是用来治病的（需对照原文审核.md",
+    "笔记软件重启人生.md",
+    "Learn/obsidian使用指南/运行obsidian中的git插件教程2026-04-05.md",
+    "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05",
+    "Learn/obsidian使用指南/assets/库冲突合并迁移全过程",
+    "Learn/obsidian使用指南/库冲突合并迁移全过程.md",
+    "assets/运行obsidian中的git插件教程2026-04-05",
+    "术数系统/盲派/夫妻宫，看的根本就不是配偶.md",
     "灵感碎片/生活不是KPI，是文学.md",
-    "夫妻宫，看的根本就不是配偶.md",
-    "库冲突合并迁移全过程.md",
-    "assets/库冲突合并迁移全过程/file-20260406074809003.jpg",
-    "assets/库冲突合并迁移全过程/file-20260406074655736.jpg",
+    "Learn/obsidian使用指南/assets/库冲突合并迁移全过程/file-20260406225021400.jpg",
+    "Learn/obsidian使用指南/assets/库冲突合并迁移全过程/file-20260406225021719.jpg",
     "assets/库冲突合并迁移全过程",
-    "2026-04-05 运行obsidian中的git插件教程.md",
     "“沟通”不是关键，其实“意愿”才是.md",
     "2026-04-04 计划通.md",
     "2026-04-05 打金软件.md",
-    "全宇宙最牛的all-in-one计划本.md",
     "conflict-files-obsidian-git.md",
-    "assets/2026-04-05 运行obsidian中的git插件教程/file-20260405063302073.jpg",
+    "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05/file-20260406225023985.jpg",
     "assets/2026-04-05 运行obsidian中的git插件教程",
     "2026-04-05.md",
     "4.4计划.md",
@@ -321,20 +351,15 @@
     "2025归档/毕设/Pasted image 20241012042513.png",
     "2025归档/毕设/Pasted image 20241012042905.png",
     "2025归档/毕设/Pasted image 20241012005945.png",
-    "2026-04-04 你所理解的现实，并不是实相，而是你所在的维度，允许你感知的一部分。 就像二维世界的生物，无法理解三维世界的深度！.md",
+    "术数系统/2026-04-04 你所理解的现实，并不是实相，而是你所在的维度，允许你感知的一部分。 就像二维世界的生物，无法理解三维世界的深度！.md",
     "术数系统/78张大阿卡纳塔罗故事.md",
     "日语/跟读对话记日语单词/assets/跟读对话记日语单词",
     "日语/跟读对话记日语单词/assets",
     "单词学习法.md",
     "日语/常用语积累",
-    "日语/跟读对话记日语单词",
     "职业规划2025.12.5起/职业规划2025起.md",
     "职业规划2025.12.5起/互联网营销.md",
     "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
-    "职业规划2025.12.5起/开发者/github使用指南.md",
-    "职业规划2025.12.5起/开发者/assets/github使用指南",
-    "职业规划2025.12.5起/开发者/assets/新建文件夹",
-    "职业规划2025.12.5起/创业合伙人攻略 3.29.md",
-    "术数系统/盲派/八字墓库.md"
+    "职业规划2025.12.5起/开发者/github使用指南.md"
   ]
 }
