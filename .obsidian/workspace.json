@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "库冲突合并迁移全过程.md",
+                "file": "夫妻宫，看的根本就不是配偶.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "库冲突合并迁移全过程"
+              "title": "夫妻宫，看的根本就不是配偶"
             }
           }
         ],
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc3b0e4244055d",
@@ -269,7 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,7 +278,6 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
@@ -285,11 +285,15 @@
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
       "copilot:Open Copilot Chat": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
   "active": "32211652c222c843",
   "lastOpenFiles": [
+    "灵感碎片/生活不是KPI，是文学.md",
+    "夫妻宫，看的根本就不是配偶.md",
+    "库冲突合并迁移全过程.md",
     "assets/库冲突合并迁移全过程/file-20260406074809003.jpg",
     "assets/库冲突合并迁移全过程/file-20260406074655736.jpg",
     "assets/库冲突合并迁移全过程",
@@ -299,7 +303,6 @@
     "2026-04-05 打金软件.md",
     "全宇宙最牛的all-in-one计划本.md",
     "conflict-files-obsidian-git.md",
-    "库冲突合并迁移全过程.md",
     "assets/2026-04-05 运行obsidian中的git插件教程/file-20260405063302073.jpg",
     "assets/2026-04-05 运行obsidian中的git插件教程",
     "2026-04-05.md",
@@ -319,7 +322,6 @@
     "2025归档/毕设/Pasted image 20241012042513.png",
     "2025归档/毕设/Pasted image 20241012042905.png",
     "2025归档/毕设/Pasted image 20241012005945.png",
-    "2025归档/毕设/1a1ad12dbd56df0779ebf42f84f9ab15.png",
     "2026-04-04 你所理解的现实，并不是实相，而是你所在的维度，允许你感知的一部分。 就像二维世界的生物，无法理解三维世界的深度！.md",
     "术数系统/78张大阿卡纳塔罗故事.md",
     "日语/跟读对话记日语单词/assets/跟读对话记日语单词",
@@ -334,7 +336,6 @@
     "职业规划2025.12.5起/开发者/assets/github使用指南",
     "职业规划2025.12.5起/开发者/assets/新建文件夹",
     "职业规划2025.12.5起/创业合伙人攻略 3.29.md",
-    "术数系统/盲派/八字墓库.md",
-    "灵感碎片/2026-04-01.md"
+    "术数系统/盲派/八字墓库.md"
   ]
 }
