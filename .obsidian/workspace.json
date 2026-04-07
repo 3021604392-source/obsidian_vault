@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-08.md",
+                "file": "3D MAX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-08"
+              "title": "3D MAX"
             }
           }
         ]
@@ -266,19 +266,25 @@
   },
   "active": "e4fefa098846583f",
   "lastOpenFiles": [
-    "3D MAX.md",
+    "Learn/obsidian使用指南/库冲突合并迁移全过程.md",
+    "Learn/obsidian使用指南/外观插件合集.md",
+    "Learn/obsidian使用指南/运行obsidian中的git插件教程2026-04-05.md",
+    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
+    "Learn/obsidian使用指南/AttachFlow 插件.md",
+    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
     "2026-04-08.md",
-    "更换 Git 远程地址协议 2026-04-07.md",
+    "笔记软件重启人生.md",
+    "简历修改方向.md",
+    "2026-04-04 计划通.md",
     "2026-04-05 打金软件.md",
+    "3D MAX.md",
+    "更换 Git 远程地址协议 2026-04-07.md",
     "assets/更换 Git 远程地址协议 2026-04-07",
     "assets/更换 Git 远程地址协议 2026-04-07/file-20260407011314955.jpg",
     "assets/2026-04-07",
     "assets/2026-04-07 配置SSH协议",
     "assets/更换 Git 远程地址协议 2026-04-07/file-20260407011314962.jpg",
     "assets",
-    "笔记软件重启人生.md",
-    "Learn/obsidian使用指南/库冲突合并迁移全过程.md",
-    "Learn/obsidian使用指南/运行obsidian中的git插件教程2026-04-05.md",
     "术数系统/针灸的产生原始目的不是用来治病的（需对照原文审核.md",
     "全宇宙最牛的all-in-one计划本（待整理.md",
     "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05",
@@ -290,7 +296,6 @@
     "Learn/obsidian使用指南/assets/库冲突合并迁移全过程/file-20260406225021719.jpg",
     "assets/库冲突合并迁移全过程",
     "灵感碎片/“沟通”不是关键，其实“意愿”才是.md",
-    "2026-04-04 计划通.md",
     "conflict-files-obsidian-git.md",
     "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05/file-20260406225023985.jpg",
     "assets/2026-04-05 运行obsidian中的git插件教程",
@@ -303,14 +308,9 @@
     "2025归档/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
     "2025归档/毕设/信息可视化.md",
     "2025归档/毕设/信息设计.md",
-    "2025归档/毕设/研究所文化厅.md",
     "2025归档/毕设/4329cdbcb249f3386a457e278d4795b6.png",
     "2025归档/毕设/Pasted image 20241012043013.png",
     "2025归档/毕设/Pasted image 20241012043614.png",
-    "2025归档/毕设/Pasted image 20241012042513.png",
-    "术数系统/2026-04-04 你所理解的现实，并不是实相，而是你所在的维度，允许你感知的一部分。 就像二维世界的生物，无法理解三维世界的深度！.md",
-    "术数系统/78张大阿卡纳塔罗故事.md",
-    "Learn/单词学习法.md",
-    "职业规划2025.12.5起/职业规划2025起.md"
+    "2025归档/毕设/Pasted image 20241012042513.png"
   ]
 }
