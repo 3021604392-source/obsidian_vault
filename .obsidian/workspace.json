@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-07.md",
+                "file": "3D MAX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-07"
+              "title": "3D MAX"
             }
           }
         ]
@@ -267,7 +267,8 @@
   "active": "e4fefa098846583f",
   "lastOpenFiles": [
     "更换 Git 远程地址协议 2026-04-07.md",
-    "2026-04-07.md",
+    "2026-04-05 打金软件.md",
+    "3D MAX.md",
     "assets/更换 Git 远程地址协议 2026-04-07",
     "assets/更换 Git 远程地址协议 2026-04-07/file-20260407011314955.jpg",
     "assets/2026-04-07",
@@ -289,7 +290,6 @@
     "assets/库冲突合并迁移全过程",
     "灵感碎片/“沟通”不是关键，其实“意愿”才是.md",
     "2026-04-04 计划通.md",
-    "2026-04-05 打金软件.md",
     "conflict-files-obsidian-git.md",
     "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05/file-20260406225023985.jpg",
     "assets/2026-04-05 运行obsidian中的git插件教程",
