@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "264b4baedc35e5d2",
+    "id": "e497d9a7f1eed3a0",
     "type": "split",
     "children": [
       {
-        "id": "232e281846f9b12b",
+        "id": "46bc31fa4b121314",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fefa098846583f",
+            "id": "bc387ce39df59cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D MAX.md",
+                "file": "2026-04-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,24 +28,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3D MAX"
+              "title": "2026-04-13"
+            }
+          },
+          {
+            "id": "d74985c196aaeae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "44416b18f9c11fc0",
+    "id": "ebb655a08b950372",
     "type": "split",
     "children": [
       {
-        "id": "15123bf5a6d0bf47",
+        "id": "68e592fbbc88f3aa",
         "type": "tabs",
         "children": [
           {
-            "id": "15ea819c477cd521",
+            "id": "e8a8f68265c962f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +83,12 @@
             }
           },
           {
-            "id": "f02b539d8fa79437",
+            "id": "5fad45ccfe7d1996",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "你所理解的",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +100,7 @@
             }
           },
           {
-            "id": "89bb89d5687c94b7",
+            "id": "520219fc701e46a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,38 +108,28 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "615c21a8dc31dff2",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "笔记本导航器"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 300
   },
   "right": {
-    "id": "d1dc3b0e4244055d",
+    "id": "e55dbdf49a874cb7",
     "type": "split",
     "children": [
       {
-        "id": "0daac1bf3f86532e",
+        "id": "124c11fd02153e09",
         "type": "tabs",
         "children": [
           {
-            "id": "67a984bf6ddc058c",
+            "id": "a5d464065b30725d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +139,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "开发者流程管理技能 的反向链接列表"
+              "title": "conflict-files-obsidian-git 的反向链接列表"
             }
           },
           {
-            "id": "fc79ea3db377eb9c",
+            "id": "146a2c7ef1e823c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "职业规划2025.12.5起/开发者/开发者流程管理技能.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "开发者流程管理技能 的出链列表"
+              "title": "conflict-files-obsidian-git 的出链列表"
             }
           },
           {
-            "id": "8d88bccecfa2b93f",
+            "id": "fb86eabbb6e4721b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,7 +172,7 @@
             }
           },
           {
-            "id": "bea193041ba003bd",
+            "id": "27125fca8dfbe04b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -171,146 +186,47 @@
             }
           },
           {
-            "id": "d8e8909774cc9275",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "calendar-view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-calendar-check",
-              "title": "日历"
-            }
-          },
-          {
-            "id": "cc6f840bb785e3f7",
+            "id": "d57f82c63c1d1e11",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025.12.8 无需纠结格式和排版 的大纲"
-            }
-          },
-          {
-            "id": "799f364ee3c7bdb4",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "脚注"
-            }
-          },
-          {
-            "id": "4eb10a9b368caca2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5444058aba531f88",
-            "type": "leaf",
-            "state": {
-              "type": "calendar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar-view"
-            }
-          },
-          {
-            "id": "f95f5075e6e00ee9",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "title": "conflict-files-obsidian-git 的大纲"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
       "copilot:Open Copilot Chat": false,
-      "templater-obsidian:Templater": false,
-      "daily-notes:打开/创建今天的日记": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e4fefa098846583f",
+  "active": "d74985c196aaeae8",
   "lastOpenFiles": [
-    "Learn/obsidian使用指南/库冲突合并迁移全过程.md",
-    "Learn/obsidian使用指南/外观插件合集.md",
-    "Learn/obsidian使用指南/运行obsidian中的git插件教程2026-04-05.md",
-    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
-    "Learn/obsidian使用指南/AttachFlow 插件.md",
-    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
-    "2026-04-08.md",
-    "笔记软件重启人生.md",
-    "简历修改方向.md",
-    "2026-04-04 计划通.md",
-    "2026-04-05 打金软件.md",
-    "3D MAX.md",
-    "更换 Git 远程地址协议 2026-04-07.md",
-    "assets/更换 Git 远程地址协议 2026-04-07",
-    "assets/更换 Git 远程地址协议 2026-04-07/file-20260407011314955.jpg",
-    "assets/2026-04-07",
-    "assets/2026-04-07 配置SSH协议",
-    "assets/更换 Git 远程地址协议 2026-04-07/file-20260407011314962.jpg",
-    "assets",
-    "术数系统/针灸的产生原始目的不是用来治病的（需对照原文审核.md",
-    "全宇宙最牛的all-in-one计划本（待整理.md",
-    "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05",
-    "Learn/obsidian使用指南/assets/库冲突合并迁移全过程",
-    "assets/运行obsidian中的git插件教程2026-04-05",
-    "术数系统/盲派/夫妻宫，看的根本就不是配偶.md",
-    "灵感碎片/生活不是KPI，是文学.md",
-    "Learn/obsidian使用指南/assets/库冲突合并迁移全过程/file-20260406225021400.jpg",
-    "Learn/obsidian使用指南/assets/库冲突合并迁移全过程/file-20260406225021719.jpg",
-    "assets/库冲突合并迁移全过程",
-    "灵感碎片/“沟通”不是关键，其实“意愿”才是.md",
-    "conflict-files-obsidian-git.md",
-    "Learn/obsidian使用指南/assets/运行obsidian中的git插件教程2026-04-05/file-20260406225023985.jpg",
-    "assets/2026-04-05 运行obsidian中的git插件教程",
-    "2026-04-05.md",
-    "4.4计划.md",
-    "日语/跟读对话记日语单词/跟读对话记日语单词.md",
-    "日语/常用语积累/2026-04-04 商务日语邮件.md",
-    "assets/2026-04-05/file-20260405002925885.jpg",
-    "assets/2026-04-05",
-    "2025归档/毕设/心灵克隆研究所——客制化数智人多维应用数字空间设计.md",
-    "2025归档/毕设/信息可视化.md",
-    "2025归档/毕设/信息设计.md",
-    "2025归档/毕设/4329cdbcb249f3386a457e278d4795b6.png",
-    "2025归档/毕设/Pasted image 20241012043013.png",
-    "2025归档/毕设/Pasted image 20241012043614.png",
-    "2025归档/毕设/Pasted image 20241012042513.png"
+    "2026-04-13.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
