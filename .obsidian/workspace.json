@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
+                "file": "笔记软件重启人生.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-04 商务日语邮件"
+              "title": "笔记软件重启人生"
             }
           }
         ]
@@ -83,8 +83,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "05654d98df897206",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
+                "file": "笔记软件重启人生.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-04 商务日语邮件 的反向链接列表"
+              "title": "笔记软件重启人生 的反向链接列表"
             }
           },
           {
@@ -123,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
+                "file": "笔记软件重启人生.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-04 商务日语邮件 的出链列表"
+              "title": "笔记软件重启人生 的出链列表"
             }
           },
           {
@@ -166,21 +177,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
+                "file": "笔记软件重启人生.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-04 商务日语邮件 的大纲"
+              "title": "笔记软件重启人生 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +210,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e764f1b627b644f8",
+  "active": "05654d98df897206",
   "lastOpenFiles": [
+    "术数系统/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母.md",
+    "日语/常用语积累/2026-04-04 商务日语邮件.md",
     "日语/跟读对话记日语单词/跟读对话记日语单词.md",
     "日语/晚课碎片内容.md",
     "2026-04-04 计划通.md",
