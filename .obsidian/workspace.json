@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "苦难",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,8 +150,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "苦难"
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -210,7 +210,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e764f1b627b644f8",
+  "active": "5fad45ccfe7d1996",
   "lastOpenFiles": [
     "Diary（日记）/灵感碎片/生活不是KPI，是文学.md",
     "Diary（日记）/每日塔罗频道/写作天赋.md",
