@@ -11,10 +11,24 @@
             "id": "e764f1b627b644f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-04-04 商务日语邮件"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2026-04-04 商务日语邮件 的反向链接列表"
             }
           },
           {
@@ -108,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2026-04-04 商务日语邮件 的出链列表"
             }
           },
           {
@@ -150,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "日语/常用语积累/2026-04-04 商务日语邮件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-04-04 商务日语邮件 的大纲"
             }
           }
         ]
@@ -184,6 +201,11 @@
   },
   "active": "e764f1b627b644f8",
   "lastOpenFiles": [
+    "日语/跟读对话记日语单词/跟读对话记日语单词.md",
+    "日语/晚课碎片内容.md",
+    "2026-04-04 计划通.md",
+    "笔记软件重启人生.md",
+    "2026-04-05 打金软件.md",
     "conflict-files-obsidian-git.md",
     "2026-04-13.md"
   ]
