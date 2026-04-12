@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记软件重启人生.md",
+                "file": "Diary（日记）/每日塔罗频道/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "笔记软件重启人生"
+              "title": "未命名"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记软件重启人生.md",
+                "file": "Diary（日记）/每日塔罗频道/写作天赋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "笔记软件重启人生 的反向链接列表"
+              "title": "写作天赋 的反向链接列表"
             }
           },
           {
@@ -133,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记软件重启人生.md",
+                "file": "Diary（日记）/每日塔罗频道/写作天赋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "笔记软件重启人生 的出链列表"
+              "title": "写作天赋 的出链列表"
             }
           },
           {
@@ -176,17 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记软件重启人生.md",
-                "followCursor": false,
+                "file": "Diary（日记）/每日塔罗频道/写作天赋.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "笔记软件重启人生 的大纲"
+              "title": "写作天赋 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -211,18 +212,23 @@
   },
   "active": "e764f1b627b644f8",
   "lastOpenFiles": [
+    "2026-04-13.md",
+    "Diary（日记）/每日塔罗频道/未命名.md",
+    "Diary（日记）/每日塔罗频道/写作天赋.md",
+    "重启人生.md",
+    "assets/重启人生",
+    "assets/重启人生/file-20260413040326576.jpg",
     "Projects（项目）/游戏大纲/一云梯.md",
-    "笔记软件重启人生.md",
-    "assets/笔记软件重启人生/file-20260413034420342.jpg",
+    "assets/重启人生/file-20260413040326577.jpg",
     "assets/笔记软件重启人生",
     "assets",
     "Projects（项目）/assets/笔记软件重启人生",
     "Home（主页待搭建）",
-    "assets/笔记软件重启人生/file-20260413034413424 1.jpg",
-    "assets/笔记软件重启人生/file-20260413034413424.jpg",
-    "assets/笔记软件重启人生/file-20260413034413423 1.jpg",
-    "assets/笔记软件重启人生/file-20260413034413423.jpg",
-    "assets/笔记软件重启人生/file-20260413034413422 2.jpg",
+    "assets/重启人生/file-20260413040326577 1.jpg",
+    "assets/重启人生/file-20260413040326577 2.jpg",
+    "assets/重启人生/file-20260413040326584.jpg",
+    "assets/重启人生/file-20260413040326601.jpg",
+    "assets/重启人生/file-20260413040326601 1.jpg",
     "全宇宙最牛的all-in-one计划本（待整理.md",
     "Learn/舞蹈/搭建街舞系统.md",
     "Event （事件）/职业规划2025.12.5起/开发者/assets/开发者流程管理技能",
@@ -230,19 +236,16 @@
     "Event （事件）/职业规划2025.12.5起/开发者/assets/__temp__开发者流程管理技能",
     "Event （事件）/职业规划2025.12.5起/开发者/assets/__temp__github使用指南",
     "Diary（日记）/assets/2026-04-02 顺行性失忆",
-    "Diary（日记）/assets/__temp__2026-04-02 顺行性失忆",
     "Projects（项目）/2026-04-05 打金软件.md",
     "Projects（项目）/2026-04-04 计划通.md",
     "Projects（项目）/assets/2026-04-04 计划通/file-20260413030743017.jpg",
     "Diary（日记）/每日塔罗频道/2025-12-17.md",
-    "assets/笔记软件重启人生/file-20260413034413420.jpg",
-    "assets/笔记软件重启人生/file-20260413034413421.jpg",
-    "assets/笔记软件重启人生/file-20260413034413422.jpg",
+    "assets/重启人生/file-20260413040326603 2.jpg",
+    "assets/重启人生/file-20260413040326603 1.jpg",
     "Projects（项目）/术数系统/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母.md",
     "Courses（课程）/日语/常用语积累/2026-04-04 商务日语邮件.md",
     "Courses（课程）/日语/跟读对话记日语单词/跟读对话记日语单词.md",
     "Courses（课程）/日语/晚课碎片内容.md",
-    "conflict-files-obsidian-git.md",
-    "2026-04-13.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
