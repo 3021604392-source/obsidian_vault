@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fac57f88d194ef37",
+        "id": "27eb98ed3b276869",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1a24a333eb8d50",
+            "id": "63c660716f803827",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learn/obsidian使用指南/外观插件合集.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "外观插件合集"
             }
           }
         ]
@@ -163,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-14.md",
+                "file": "Learn/obsidian使用指南/外观插件合集.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-14 的大纲"
+              "title": "外观插件合集 的大纲"
             }
           }
         ],
@@ -196,31 +210,36 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "05654d98df897206",
+  "active": "63c660716f803827",
   "lastOpenFiles": [
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414030230664.jpg",
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414030027070.jpg",
+    "Learn/obsidian使用指南/外观插件合集.md",
+    "Learn/obsidian使用指南/外观插件合集.md",
+    "Learn/obsidian使用指南/命名规范.md",
+    "Learn/obsidian使用指南/日历清单插件合集.md",
+    "Learn/obsidian使用指南/assets/日历清单插件合集",
+    "Learn/obsidian使用指南/assets/日历清单插件合集/file-20260414025308630.jpg",
+    "Learn/obsidian使用指南/assets/未命名",
+    "2026-04-14.md",
     "Excalidraw/AI/sd.md",
     "Home（主页待搭建）/2026-04-04 计划通.md",
-    "2026-04-14.md",
     "Learn/obsidian使用指南/图片管理插件.md",
-    "Learn/obsidian使用指南/外观插件.md",
-    "Learn/obsidian使用指南/外观插件合集.md",
-    "Learn/obsidian使用指南/assets/外观插件/file-20260414022802814.jpg",
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632908.jpg",
     "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
     "Learn/obsidian使用指南/file cooker 插件 - 文件迁移切割导出.md",
     "Learn/obsidian使用指南/AttachFlow 插件 - 附件编辑管理.md",
     "Learn/obsidian使用指南/assets/运行git插件教程 2026-04-05",
     "Learn/obsidian使用指南/运行git插件教程 2026-04-05.md",
-    "Learn/obsidian使用指南/assets/外观插件/file-20260414021839085.jpg",
-    "Learn/obsidian使用指南/assets/外观插件/file-20260414021617885.jpg",
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632908 1.jpg",
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632909.jpg",
     "Learn/obsidian使用指南/assets/外观插件",
     "Learn/obsidian使用指南/assets/插件",
-    "Learn/obsidian使用指南/assets/外观插件/file-20260414021532544.jpg",
+    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632926.jpg",
     "Learn/obsidian使用指南/assets/SettingsStyle 插件",
-    "Learn/obsidian使用指南/命名规范.md",
     "Learn/obsidian使用指南/assets/命名规范",
     "Learn/obsidian使用指南/assets/命名",
     "Learn/obsidian使用指南/assets/命名规范/file-20260414021349327.jpg",
-    "Learn/obsidian使用指南/assets/未命名",
     "Learn/obsidian使用指南/Markdown常用语法.md",
     "Learn/obsidian使用指南/assets/Markdown常用语法/file-20260414013713601.jpg",
     "Learn/obsidian使用指南/assets/Markdown常用语法",
@@ -236,13 +255,8 @@
     "Projects（项目）/摘录/2026-03-30 抽象语录.md",
     "全宇宙最牛的all-in-one计划本（待整理.md",
     "Projects（项目）/摘录",
-    "Home（主页待搭建）/assets/2026-04-04 计划通",
     "Diary（日记）/2026-2-26起半月回忆录/2026-2-27 聊天记录.md",
     "Diary（日记）/2026-2-26起半月回忆录/2026-4-12 吃的真好.md",
-    "Diary（日记）/2026-2-26起半月回忆录/2026-2-26 聊天记录.md",
-    "Diary（日记）/2026-2-26起半月回忆录/2026-2-25 聊天记录1.md",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114129303.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114124487.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114119310.jpg"
+    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114129303.jpg"
   ]
 }
