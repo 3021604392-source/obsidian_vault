@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "27eb98ed3b276869",
+        "id": "7a3ba27335f917dc",
         "type": "tabs",
         "children": [
           {
-            "id": "63c660716f803827",
+            "id": "256146711751a644",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "fd9a74e55cb0f7ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/obsidian使用指南/外观插件合集.md",
+                "file": "2026-04-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "外观插件合集"
+              "title": "2026-04-14"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#八字",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary（日记）/每日塔罗频道/写作天赋.md",
+                "file": "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "写作天赋 的反向链接列表"
+              "title": "策展人 的反向链接列表"
             }
           },
           {
@@ -134,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary（日记）/每日塔罗频道/写作天赋.md",
+                "file": "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "写作天赋 的出链列表"
+              "title": "策展人 的出链列表"
             }
           },
           {
@@ -151,7 +162,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "属性"
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -177,17 +188,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/obsidian使用指南/外观插件合集.md",
-                "followCursor": true,
+                "file": "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "外观插件合集 的大纲"
+              "title": "策展人 的大纲"
+            }
+          },
+          {
+            "id": "4122a9c2bf206fbc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,53 +231,53 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "63c660716f803827",
+  "active": "fd9a74e55cb0f7ed",
   "lastOpenFiles": [
-    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414030230664.jpg",
-    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414030027070.jpg",
-    "Learn/obsidian使用指南/外观插件合集.md",
-    "Learn/obsidian使用指南/外观插件合集.md",
-    "Learn/obsidian使用指南/命名规范.md",
-    "Learn/obsidian使用指南/日历清单插件合集.md",
-    "Learn/obsidian使用指南/assets/日历清单插件合集",
-    "Learn/obsidian使用指南/assets/日历清单插件合集/file-20260414025308630.jpg",
-    "Learn/obsidian使用指南/assets/未命名",
+    "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
     "2026-04-14.md",
+    "Event （事件）/职业规划2025.12.5起/职业规划2025起.md",
+    "Event （事件）/职业规划2025.12.5起/创业合伙人攻略 3.29.md",
+    "Projects（项目）/术数系统/盲派/夫妻宫，看的根本就不是配偶.md",
+    "Projects（项目）/术数系统/盲派/八字墓库.md",
+    "A map（目录）/八字.md",
+    "Event （事件）/职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
+    "Event （事件）/职业规划2025.12.5起/互联网营销.md",
+    "Event （事件）/职业规划2025.12.5起/应聘指南/简历修改方向.md",
+    "Event （事件）/职业规划2025.12.5起/应聘指南/接offer5要点.md",
+    "Event （事件）/职业规划2025.12.5起/应聘指南/应聘offer过程.md",
+    "Courses（课程）/舞蹈/搭建街舞系统.md",
+    "Learn/obsidian使用指南/插件说明/AttachFlow 插件 - 附件编辑管理.md",
+    "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集",
+    "Learn/obsidian使用指南/插件说明/日历清单插件合集.md",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集",
+    "Learn/obsidian使用指南/插件说明/assets",
+    "Learn/obsidian使用指南/Pandoc 文档格式转换.md",
+    "Learn/obsidian使用指南/插件说明",
+    "Learn/obsidian使用指南/插件说明/外观插件合集.md",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602756.jpg",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602879.jpg",
+    "Learn/obsidian使用指南/命名规范.md",
+    "Learn/obsidian使用指南/assets/日历清单插件合集",
+    "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集/file-20260414033605293.jpg",
+    "Learn/obsidian使用指南/assets/未命名",
     "Excalidraw/AI/sd.md",
     "Home（主页待搭建）/2026-04-04 计划通.md",
-    "Learn/obsidian使用指南/图片管理插件.md",
-    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632908.jpg",
-    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
-    "Learn/obsidian使用指南/file cooker 插件 - 文件迁移切割导出.md",
-    "Learn/obsidian使用指南/AttachFlow 插件 - 附件编辑管理.md",
+    "Learn/obsidian使用指南/插件说明/图片管理插件.md",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033603011.jpg",
+    "Learn/obsidian使用指南/插件说明/Custom Attachment Location 插件.md",
+    "Learn/obsidian使用指南/插件说明/file cooker 插件 - 文件迁移切割导出.md",
     "Learn/obsidian使用指南/assets/运行git插件教程 2026-04-05",
     "Learn/obsidian使用指南/运行git插件教程 2026-04-05.md",
-    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632908 1.jpg",
-    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632909.jpg",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602981.jpg",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602980.jpg",
     "Learn/obsidian使用指南/assets/外观插件",
     "Learn/obsidian使用指南/assets/插件",
-    "Learn/obsidian使用指南/assets/外观插件合集/file-20260414025632926.jpg",
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602979.jpg",
     "Learn/obsidian使用指南/assets/SettingsStyle 插件",
-    "Learn/obsidian使用指南/assets/命名规范",
-    "Learn/obsidian使用指南/assets/命名",
     "Learn/obsidian使用指南/assets/命名规范/file-20260414021349327.jpg",
     "Learn/obsidian使用指南/Markdown常用语法.md",
     "Learn/obsidian使用指南/assets/Markdown常用语法/file-20260414013713601.jpg",
-    "Learn/obsidian使用指南/assets/Markdown常用语法",
     "Projects（项目）/术数系统/韦特塔罗/78张大阿卡纳塔罗故事.md",
-    "Projects（项目）/摘录/“沟通”不是关键，其实“意愿”才是.md",
-    "Home（主页待搭建）/重启人生.md",
-    "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
-    "Learn/obsidian使用指南/assets/2025.12.8 无需纠结格式和排版/file-20260413120724744.jpg",
-    "Projects（项目）/2026-04-05 打金软件.md",
-    "Projects（项目）/摘录/向着光解决教育困境.md",
-    "Projects（项目）/摘录/长江随笔.md",
-    "Projects（项目）/摘录/生活不是KPI，是文学.md",
-    "Projects（项目）/摘录/2026-03-30 抽象语录.md",
-    "全宇宙最牛的all-in-one计划本（待整理.md",
-    "Projects（项目）/摘录",
-    "Diary（日记）/2026-2-26起半月回忆录/2026-2-27 聊天记录.md",
-    "Diary（日记）/2026-2-26起半月回忆录/2026-4-12 吃的真好.md",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114129303.jpg"
+    "Learn/obsidian使用指南/assets/2025.12.8 无需纠结格式和排版/file-20260413120724744.jpg"
   ]
 }

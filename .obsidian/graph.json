@@ -3,28 +3,49 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#excalidraw  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 9096436
+      }
+    },
+    {
+      "query": "[\"八字\":",
+      "color": {
+        "a": 1,
+        "rgb": 16680692
+      }
+    },
+    {
+      "query": "tag:#求职  ",
+      "color": {
+        "a": 1,
+        "rgb": 14839110
+      }
+    },
+    {
+      "query": "[\"职业规划\":",
+      "color": {
+        "a": 1,
+        "rgb": 16659508
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 1.60051903114187,
+  "nodeSizeMultiplier": 1.58780276816609,
   "lineSizeMultiplier": 1.46487889273356,
   "collapse-forces": false,
   "centerStrength": 0.880622837370242,
   "repelStrength": 20,
   "linkStrength": 0.94636678200692,
   "linkDistance": 124,
-  "scale": 0.40314593071197097,
-  "close": true
+  "scale": 0.5652037001662178,
+  "close": false
 }
