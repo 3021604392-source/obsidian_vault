@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7440e1f1ea31a13c",
+        "id": "fac57f88d194ef37",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fb501ff7dfa8bf",
+            "id": "0e1a24a333eb8d50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects（项目）/摘录/“沟通”不是关键，其实“意愿”才是.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "“沟通”不是关键，其实“意愿”才是"
-            }
-          },
-          {
-            "id": "64655c2327b25497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home（主页待搭建）/2026-04-04 计划通.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-04 计划通"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "苦难",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +80,8 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,7 +137,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "苦难"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -201,17 +163,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary（日记）/每日塔罗频道/写作天赋.md",
+                "file": "2026-04-14.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "写作天赋 的大纲"
+              "title": "2026-04-14 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -222,7 +184,6 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
@@ -231,11 +192,39 @@
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
       "copilot:Open Copilot Chat": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "64655c2327b25497",
+  "active": "05654d98df897206",
   "lastOpenFiles": [
+    "Excalidraw/AI/sd.md",
+    "Home（主页待搭建）/2026-04-04 计划通.md",
+    "2026-04-14.md",
+    "Learn/obsidian使用指南/图片管理插件.md",
+    "Learn/obsidian使用指南/外观插件.md",
+    "Learn/obsidian使用指南/外观插件合集.md",
+    "Learn/obsidian使用指南/assets/外观插件/file-20260414022802814.jpg",
+    "Learn/obsidian使用指南/Custom Attachment Location 插件.md",
+    "Learn/obsidian使用指南/file cooker 插件 - 文件迁移切割导出.md",
+    "Learn/obsidian使用指南/AttachFlow 插件 - 附件编辑管理.md",
+    "Learn/obsidian使用指南/assets/运行git插件教程 2026-04-05",
+    "Learn/obsidian使用指南/运行git插件教程 2026-04-05.md",
+    "Learn/obsidian使用指南/assets/外观插件/file-20260414021839085.jpg",
+    "Learn/obsidian使用指南/assets/外观插件/file-20260414021617885.jpg",
+    "Learn/obsidian使用指南/assets/外观插件",
+    "Learn/obsidian使用指南/assets/插件",
+    "Learn/obsidian使用指南/assets/外观插件/file-20260414021532544.jpg",
+    "Learn/obsidian使用指南/assets/SettingsStyle 插件",
+    "Learn/obsidian使用指南/命名规范.md",
+    "Learn/obsidian使用指南/assets/命名规范",
+    "Learn/obsidian使用指南/assets/命名",
+    "Learn/obsidian使用指南/assets/命名规范/file-20260414021349327.jpg",
+    "Learn/obsidian使用指南/assets/未命名",
+    "Learn/obsidian使用指南/Markdown常用语法.md",
+    "Learn/obsidian使用指南/assets/Markdown常用语法/file-20260414013713601.jpg",
+    "Learn/obsidian使用指南/assets/Markdown常用语法",
+    "Projects（项目）/术数系统/韦特塔罗/78张大阿卡纳塔罗故事.md",
     "Projects（项目）/摘录/“沟通”不是关键，其实“意愿”才是.md",
     "Home（主页待搭建）/重启人生.md",
     "Learn/obsidian使用指南/2025.12.8 无需纠结格式和排版.md",
@@ -247,40 +236,13 @@
     "Projects（项目）/摘录/2026-03-30 抽象语录.md",
     "全宇宙最牛的all-in-one计划本（待整理.md",
     "Projects（项目）/摘录",
-    "Home（主页待搭建）/2026-04-04 计划通.md",
     "Home（主页待搭建）/assets/2026-04-04 计划通",
-    "Literature（文献）/assets/一云梯",
-    "Literature（文献）/assets",
     "Diary（日记）/2026-2-26起半月回忆录/2026-2-27 聊天记录.md",
     "Diary（日记）/2026-2-26起半月回忆录/2026-4-12 吃的真好.md",
     "Diary（日记）/2026-2-26起半月回忆录/2026-2-26 聊天记录.md",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-25 聊天记录1",
     "Diary（日记）/2026-2-26起半月回忆录/2026-2-25 聊天记录1.md",
-    "Diary（日记）/2026-2-26起半月回忆录/2026-2-25 聊天记录2.md",
     "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114129303.jpg",
     "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114124487.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114119310.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114113779.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114106149.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114059063.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114051280.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114035293.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114024830.jpg",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-4-12 吃的真好",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-4-12",
-    "Diary（日记）/2026-2-26起半月回忆录",
-    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-26 聊天记录",
-    "Projects（项目）/术数系统/韦特塔罗/78张大阿卡纳塔罗故事.md",
-    "Projects（项目）/术数系统/韦特塔罗/时间深渊牌阵 实战案例（三）.md",
-    "Diary（日记）/每日塔罗频道/2025-12-14 塔占.md",
-    "Diary（日记）/每日塔罗频道/2025-12-17.md",
-    "Diary（日记）/每日塔罗频道/2026-03-26 断联向 他在做回归的准备.md",
-    "Projects（项目）/术数系统/韦特塔罗/小法老冠牌阵 实战案例（四）.md",
-    "Projects（项目）/术数系统/韦特塔罗/简易卜筮教程：占星骰子精讲 _ 无有师保，如临父母.md",
-    "Projects（项目）/术数系统/2026-04-04 你所理解的现实，并不是实相，而是你所在的维度，允许你感知的一部分。 就像二维世界的生物，无法理解三维世界的深度！.md",
-    "Projects（项目）/术数系统/未命名.md",
-    "Diary（日记）/每日塔罗频道/写作天赋.md",
-    "Literature（文献）/一云梯.md"
+    "Diary（日记）/2026-2-26起半月回忆录/assets/2026-2-27 聊天记录/file-20260413114119310.jpg"
   ]
 }
