@@ -16,33 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
-          },
-          {
-            "id": "fd9a74e55cb0f7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-04-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +206,23 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "fd9a74e55cb0f7ed",
+  "active": "256146711751a644",
   "lastOpenFiles": [
-    "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
+    "Diary（日记）/每日塔罗频道/2026-03-26 断联向 他在做回归的准备.md",
+    "Diary（日记）/每日塔罗频道/2025-12-14 收到宝宝的牌后 塔占.md",
+    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占",
+    "Diary（日记）/每日塔罗频道/2026-04-07 你的当局者迷｜那些神明一目了然你却无视的真相答案｜无时限.md",
+    "Diary（日记）/每日塔罗频道/assets/2026-04-07 你的当局者迷｜那些神明一目了然你却无视的真相答案｜无时限/file-20260414041616038.jpg",
+    "Diary（日记）/每日塔罗频道/assets/2026-04-07 你的当局者迷｜那些神明一目了然你却无视的真相答案｜无时限",
+    "Diary（日记）/每日塔罗频道/2025-12-17.md",
+    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611531.jpg",
+    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611533.jpg",
+    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611565.jpg",
+    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611566.jpg",
+    "Diary（日记）/每日塔罗频道/assets/2025-12-14 塔占",
+    "Diary（日记）/灵感碎片/2025-12-15 soul社交总结.md",
     "2026-04-14.md",
+    "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
     "Event （事件）/职业规划2025.12.5起/职业规划2025起.md",
     "Event （事件）/职业规划2025.12.5起/创业合伙人攻略 3.29.md",
     "Projects（项目）/术数系统/盲派/夫妻宫，看的根本就不是配偶.md",
@@ -264,20 +252,7 @@
     "Home（主页待搭建）/2026-04-04 计划通.md",
     "Learn/obsidian使用指南/插件说明/图片管理插件.md",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033603011.jpg",
-    "Learn/obsidian使用指南/插件说明/Custom Attachment Location 插件.md",
-    "Learn/obsidian使用指南/插件说明/file cooker 插件 - 文件迁移切割导出.md",
     "Learn/obsidian使用指南/assets/运行git插件教程 2026-04-05",
-    "Learn/obsidian使用指南/运行git插件教程 2026-04-05.md",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602981.jpg",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602980.jpg",
-    "Learn/obsidian使用指南/assets/外观插件",
-    "Learn/obsidian使用指南/assets/插件",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602979.jpg",
-    "Learn/obsidian使用指南/assets/SettingsStyle 插件",
-    "Learn/obsidian使用指南/assets/命名规范/file-20260414021349327.jpg",
-    "Learn/obsidian使用指南/Markdown常用语法.md",
-    "Learn/obsidian使用指南/assets/Markdown常用语法/file-20260414013713601.jpg",
-    "Projects（项目）/术数系统/韦特塔罗/78张大阿卡纳塔罗故事.md",
-    "Learn/obsidian使用指南/assets/2025.12.8 无需纠结格式和排版/file-20260413120724744.jpg"
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602981.jpg"
   ]
 }
