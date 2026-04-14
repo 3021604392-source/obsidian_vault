@@ -5,12 +5,11 @@
   "keyboard-analyzer",
   "obsidian-minimal-settings",
   "floating-toc",
-  "obsidian-style-settings",
   "editing-toolbar",
-  "dust-calendar",
   "copilot",
   "metadata-menu",
   "attachment-flow-plugin",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-style-settings"
 ]

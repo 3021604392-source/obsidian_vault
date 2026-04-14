@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-15.md",
+                "file": "2026-04-15计划通.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-15"
+              "title": "2026-04-15计划通"
+            }
+          },
+          {
+            "id": "8c8430c6387dc7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "策展人 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -198,6 +223,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "a846064069614cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcbbe2203aa6fccc",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "日历"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,14 +261,18 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "256146711751a644",
+  "active": "8c8430c6387dc7f9",
   "lastOpenFiles": [
-    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+    "assets/未命名/file-20260415055825089.jpg",
+    "assets/未命名",
+    "assets",
+    "未命名.md",
+    "2026-04-15计划通.md",
     "2026-04-15.md",
+    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
     "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件/file-20260415013322624.jpg",
     "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件",
     "附件管理 插件.md",
-    "2026-04-15计划通.md",
     "Projects（项目）/Git",
     "Home（主页待搭建）/重启人生.md",
     "Home（主页待搭建）/2026-04-04 计划通.md",
@@ -259,11 +304,7 @@
     "Event （事件）/应聘指南/应聘offer过程.md",
     "Courses（课程）/舞蹈/搭建街舞系统.md",
     "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集",
-    "Learn/obsidian使用指南/插件说明/日历清单插件合集.md",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集",
-    "Learn/obsidian使用指南/插件说明/assets",
-    "Learn/obsidian使用指南/Pandoc 文档格式转换.md",
-    "Learn/obsidian使用指南/插件说明",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602756.jpg",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602879.jpg",
     "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集/file-20260414033605293.jpg",
