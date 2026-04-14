@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-15计划通.md",
+                "file": "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-15计划通"
+              "title": "附件编辑管理 插件"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,11 +220,15 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e8a8f68265c962f1",
+  "active": "256146711751a644",
   "lastOpenFiles": [
+    "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件/file-20260415013322624.jpg",
+    "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件",
+    "附件管理 插件.md",
+    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+    "2026-04-15计划通.md",
     "Projects（项目）/Git",
     "Home（主页待搭建）/重启人生.md",
-    "2026-04-15计划通.md",
     "Home（主页待搭建）/2026-04-04 计划通.md",
     "Event （事件）/职业规划2025-12-05起.md",
     "Event （事件）/创业合伙人攻略 3.29.md",
@@ -252,19 +257,15 @@
     "Event （事件）/应聘指南/接offer5要点.md",
     "Event （事件）/应聘指南/应聘offer过程.md",
     "Courses（课程）/舞蹈/搭建街舞系统.md",
-    "Learn/obsidian使用指南/插件说明/AttachFlow 插件 - 附件编辑管理.md",
     "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集",
     "Learn/obsidian使用指南/插件说明/日历清单插件合集.md",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集",
     "Learn/obsidian使用指南/插件说明/assets",
     "Learn/obsidian使用指南/Pandoc 文档格式转换.md",
     "Learn/obsidian使用指南/插件说明",
-    "Learn/obsidian使用指南/插件说明/外观插件合集.md",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602756.jpg",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602879.jpg",
-    "Learn/obsidian使用指南/assets/日历清单插件合集",
     "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集/file-20260414033605293.jpg",
-    "Learn/obsidian使用指南/assets/未命名",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033603011.jpg",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602981.jpg"
   ]
