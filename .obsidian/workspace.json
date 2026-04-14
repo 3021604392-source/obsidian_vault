@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+                "file": "2026-04-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "附件编辑管理 插件"
+              "title": "2026-04-15"
             }
           }
         ]
@@ -222,10 +222,11 @@
   },
   "active": "256146711751a644",
   "lastOpenFiles": [
+    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+    "2026-04-15.md",
     "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件/file-20260415013322624.jpg",
     "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件",
     "附件管理 插件.md",
-    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
     "2026-04-15计划通.md",
     "Projects（项目）/Git",
     "Home（主页待搭建）/重启人生.md",
@@ -266,7 +267,6 @@
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602756.jpg",
     "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602879.jpg",
     "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集/file-20260414033605293.jpg",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033603011.jpg",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602981.jpg"
+    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033603011.jpg"
   ]
 }
