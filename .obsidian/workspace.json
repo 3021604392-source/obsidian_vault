@@ -11,10 +11,24 @@
             "id": "256146711751a644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-14"
             }
           }
         ]
@@ -208,6 +222,7 @@
   },
   "active": "256146711751a644",
   "lastOpenFiles": [
+    "2026-04-14.md",
     "Diary（日记）/每日塔罗频道/2026-03-26 断联向 他在做回归的准备.md",
     "Diary（日记）/每日塔罗频道/2025-12-14 收到宝宝的牌后 塔占.md",
     "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占",
@@ -221,7 +236,6 @@
     "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611566.jpg",
     "Diary（日记）/每日塔罗频道/assets/2025-12-14 塔占",
     "Diary（日记）/灵感碎片/2025-12-15 soul社交总结.md",
-    "2026-04-14.md",
     "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
     "Event （事件）/职业规划2025.12.5起/职业规划2025起.md",
     "Event （事件）/职业规划2025.12.5起/创业合伙人攻略 3.29.md",
