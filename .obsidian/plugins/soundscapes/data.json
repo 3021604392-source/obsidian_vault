@@ -1,0 +1,12 @@
+{
+  "soundscape": "ocean",
+  "volume": 25,
+  "autoplay": false,
+  "scrollSongTitle": true,
+  "customSoundscapes": [],
+  "myMusicIndex": [],
+  "myMusicFolderPath": "",
+  "reindexFrequency": "1440",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 0
+}

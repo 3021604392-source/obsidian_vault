@@ -30,5 +30,6 @@
   "chooseFileClassAtFileCreation": false,
   "autoInsertFieldsAtFileClassInsertion": false,
   "fileClassIcon": "package",
-  "isAutoCalculationEnabled": true
+  "isAutoCalculationEnabled": true,
+  "disableDataviewPrompt": false
 }

@@ -15,8 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Cards",
+      "template": "B list（列表）/Templater/模板/术语模板-手动.md"
+    },
+    {
+      "folder": "Diary（日记）",
+      "template": "B list（列表）/Templater/模板/每日日记模板.md"
+    },
+    {
+      "folder": "Projects（项目）",
+      "template": "B list（列表）/Templater/模板/项目模板.md"
+    },
+    {
+      "folder": "Event （事件）/开发者/assets/github使用指南",
+      "template": "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md"
     }
   ],
   "enable_file_templates": false,

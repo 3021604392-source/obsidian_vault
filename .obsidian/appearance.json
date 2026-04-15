@@ -3,5 +3,8 @@
   "accentColor": "#ff8aa1",
   "nativeMenus": true,
   "cssTheme": "Border",
-  "theme": "obsidian"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Colored Headings"
+  ]
 }

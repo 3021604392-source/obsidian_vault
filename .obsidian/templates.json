@@ -1,3 +1,5 @@
 {
-  "folder": "Learn/毕设"
+  "folder": "Learn/毕设",
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HH:mm:"
 }

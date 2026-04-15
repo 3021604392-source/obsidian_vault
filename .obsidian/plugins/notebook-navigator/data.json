@@ -411,7 +411,9 @@
   "customVaultName": "",
   "pinnedNotes": {},
   "fileIcons": {},
-  "fileColors": {},
+  "fileColors": {
+    "Event （事件）/obsidian实现电脑本地文件的管理.md": "#14b8a6"
+  },
   "fileBackgroundColors": {},
   "folderIcons": {},
   "folderColors": {

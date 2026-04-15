@@ -4,45 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a3ba27335f917dc",
+        "id": "b7c4fad5ee386766",
         "type": "tabs",
         "children": [
           {
-            "id": "256146711751a644",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
-            }
-          },
-          {
-            "id": "8c8430c6387dc7f9",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "2e70460d01af4695",
+            "id": "d3811ea78540b16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home（主页待搭建）/2026-04-04 计划通.md",
+                "file": "B list（列表）/Templater/脚本/修复项目统计20220530.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,11 +28,109 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-04 计划通"
+              "title": "修复项目统计20220530"
+            }
+          },
+          {
+            "id": "09f7ce22d092b32a",
+            "type": "leaf",
+            "state": {
+              "type": "soundscapes-react-view",
+              "state": {},
+              "icon": "music",
+              "title": "Soundscapes: My Music"
+            }
+          },
+          {
+            "id": "a70af80838328e60",
+            "type": "leaf",
+            "state": {
+              "type": "task-genius-changelog",
+              "state": {},
+              "icon": "task-genius",
+              "title": "Changelog"
+            }
+          },
+          {
+            "id": "95c9d50a440b499c",
+            "type": "leaf",
+            "state": {
+              "type": "fluent-task-genius-view",
+              "state": {
+                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
+                "viewMode": "list",
+                "viewModeByViewId": {
+                  "habit": "list"
+                },
+                "searchQuery": "",
+                "filters": {},
+                "filterInputValue": "",
+                "currentViewId": "habit"
+              },
+              "icon": "task-genius",
+              "title": "Task Genius"
+            }
+          },
+          {
+            "id": "14ef74a96496ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "task-genius-onboarding",
+              "state": {},
+              "icon": "task-genius",
+              "title": "Setup"
+            }
+          },
+          {
+            "id": "5d8931e230738e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event （事件）/obsidian实现电脑本地文件的管理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "obsidian实现电脑本地文件的管理"
+            }
+          },
+          {
+            "id": "e6f119bb9920e55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/obsidian使用指南/插件说明/English-Made-Easy 语言插件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English-Made-Easy 语言插件"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#待办事项",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +250,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false,
                 "showSearch": true,
-                "searchQuery": "属性"
+                "searchQuery": "待办"
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -207,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home（主页待搭建）/2026-04-04 计划通.md",
+                "file": "2026-04-15计划通.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-04 计划通 的大纲"
+              "title": "2026-04-15计划通 的大纲"
             }
           },
           {
@@ -225,16 +294,46 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "462f6e110eee72f1",
+            "type": "leaf",
+            "state": {
+              "type": "eme-flashcard-view",
+              "state": {},
+              "icon": "brain",
+              "title": "闪卡复习"
+            }
+          },
+          {
+            "id": "476721848220e046",
+            "type": "leaf",
+            "state": {
+              "type": "eme-dict-view",
+              "state": {},
+              "icon": "book-open",
+              "title": "单词助手"
+            }
+          },
+          {
+            "id": "26399555a2bd7374",
+            "type": "leaf",
+            "state": {
+              "type": "eme-highlight-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "高亮笔记"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
-        "id": "a846064069614cf4",
+        "id": "21852a3c3f07a7e5",
         "type": "tabs",
         "children": [
           {
-            "id": "dcbbe2203aa6fccc",
+            "id": "13c8bccc5dead7d9",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator-calendar",
@@ -247,7 +346,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,61 +357,69 @@
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
+      "homepage:Open homepage": false,
       "bases:新建数据库": false,
+      "daily-notes:打开/创建今天的日记": false,
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:笔记本导航器": false,
       "copilot:Open Copilot Chat": false,
       "templater-obsidian:Templater": false,
-      "daily-notes:打开/创建今天的日记": false
+      "obsidian-english-made-easy:闪卡复习": false,
+      "obsidian-english-made-easy:单词助手": false,
+      "obsidian-english-made-easy:跟读工坊": false,
+      "obsidian-english-made-easy:高亮笔记": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "05654d98df897206",
+  "active": "95c9d50a440b499c",
   "lastOpenFiles": [
-    "Home（主页待搭建）/assets/2026-04-04 计划通1",
-    "Home（主页待搭建）/2026-04-04 计划通1.md",
-    "Home（主页待搭建）/2026-04-04 计划通.md",
-    "Learn/obsidian使用指南/搞懂 Diff 视图.md",
-    "Learn/obsidian使用指南/assets/搞懂 Diff 视图/file-20260415064547511.jpg",
-    "2026-04-15计划通.md",
-    "Learn/obsidian使用指南/assets/搞懂 Diff 视图",
-    "未命名.md",
-    "assets/未命名/file-20260415055825089.jpg",
-    "assets/未命名",
-    "assets",
-    "2026-04-15.md",
-    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
-    "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件/file-20260415013322624.jpg",
-    "Learn/obsidian使用指南/插件说明/assets/附件编辑管理 插件",
-    "附件管理 插件.md",
-    "Projects（项目）/Git",
-    "Home（主页待搭建）/重启人生.md",
-    "Event （事件）/职业规划2025-12-05起.md",
-    "Event （事件）/创业合伙人攻略 3.29.md",
-    "Learn/读书笔记整理 Skill.md",
-    "B list（列表）/Templater",
-    "Diary（日记）/每日塔罗频道/2026-03-26 断联向 他在做回归的准备.md",
-    "Diary（日记）/每日塔罗频道/2025-12-14 收到宝宝的牌后 塔占.md",
-    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占",
-    "Diary（日记）/每日塔罗频道/2026-04-07 你的当局者迷｜那些神明一目了然你却无视的真相答案｜无时限.md",
-    "Diary（日记）/每日塔罗频道/assets/2026-04-07 你的当局者迷｜那些神明一目了然你却无视的真相答案｜无时限/file-20260414041616038.jpg",
-    "Diary（日记）/每日塔罗频道/assets/2026-04-07 你的当局者迷｜那些神明一目了然你却无视的真相答案｜无时限",
-    "Diary（日记）/每日塔罗频道/2025-12-17.md",
-    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611531.jpg",
-    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611533.jpg",
-    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611565.jpg",
-    "Diary（日记）/每日塔罗频道/assets/2025-12-14 收到宝宝的牌后 塔占/file-20260414043611566.jpg",
-    "Diary（日记）/每日塔罗频道/assets/2025-12-14 塔占",
-    "Diary（日记）/灵感碎片/2025-12-15 soul社交总结.md",
-    "Event （事件）/策展人/策展人.md",
-    "Projects（项目）/术数系统/盲派/夫妻宫，看的根本就不是配偶.md",
-    "Projects（项目）/术数系统/盲派/八字墓库.md",
-    "A map（目录）/八字.md",
-    "Event （事件）/职业规划2025.12.5起/策展人/空间设计（方案设计师）.md",
-    "Event （事件）/互联网营销.md",
-    "Event （事件）/应聘指南/简历修改方向.md",
-    "Event （事件）/应聘指南/接offer5要点.md",
-    "Learn/obsidian使用指南/插件说明/assets/日历清单插件合集",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602756.jpg",
-    "Learn/obsidian使用指南/插件说明/assets/外观插件合集/file-20260414033602879.jpg"
+    "Event （事件）/obsidian实现电脑本地文件的管理.md",
+    "B list（列表）/Templater/脚本/修复项目统计20220530.md",
+    "B list（列表）/Templater/脚本/Obsidian活动汇总.md",
+    "B list（列表）/Templater/脚本/每日总结汇总20220606.md",
+    "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md",
+    "Diary（日记）/又是山海经！.md",
+    "B list（列表）/Templater/mybib.bib",
+    "B list（列表）/Templater/主页/00. 文件管理.md",
+    "B list（列表）/Templater/主页/00. 导航.md",
+    "B list（列表）/Templater/主页/00. 主页.md",
+    "B list（列表）/Templater/主页",
+    "B list（列表）/Templater/音乐/calming-rain.mp3",
+    "B list（列表）/Templater/音乐",
+    "B list（列表）/Templater/模板/项目模板.md",
+    "B list（列表）/Templater/模板/询问定义提示词.md",
+    "B list（列表）/Templater/模板/项目检索.base",
+    "B list（列表）/Templater/模板/输出笔记模板.md",
+    "B list（列表）/Templater/模板/概念检索论文.base",
+    "B list（列表）/Templater/模板/论文检索.base",
+    "B list（列表）/Templater/模板/每日日记模板.md",
+    "B list（列表）/Templater/模板/术语模板.md",
+    "B list（列表）/Templater/模板/每周周记模板.md",
+    "B list（列表）/Templater/模板/机构模板pro.md",
+    "B list（列表）/Templater/模板/机构模板.md",
+    "B list（列表）/Templater/模板/zt-note.eta.md",
+    "B list（列表）/Templater/模板/术语模板-手动.md",
+    "B list（列表）/Templater/模板/学者模板.md",
+    "B list（列表）/Templater/模板/学者检索.base",
+    "B list（列表）/Templater/模板/zt-field.eta.md",
+    "B list（列表）/Templater/模板/学术长文本模板 Longform academic template.md",
+    "B list（列表）/Templater/模板/zt-colored.eta.md",
+    "B list（列表）/Templater/模板/zt-cite2.eta.md",
+    "B list（列表）/Templater/模板/zt-cite.eta.md",
+    "B list（列表）/Templater/模板/zt-annot.eta.md",
+    "B list（列表）/Templater/模板/custom-reference.docx",
+    "B list（列表）/Templater/模板",
+    "B list（列表）/Templater/img/结果.jpg",
+    "B list（列表）/Templater/img/讨论.jpg",
+    "B list（列表）/Templater/img/方法.jpg",
+    "B list（列表）/Templater/img/PaperBell.jpg",
+    "B list（列表）/Templater/img/引言.jpg",
+    "B list（列表）/Templater/img/library.gif",
+    "B list（列表）/Templater/img/ABSESpy.png",
+    "B list（列表）/Templater/40 - Obsidian/img/引言.jpg",
+    "B list（列表）/Templater/40 - Obsidian/img/PaperBell.jpg",
+    "B list（列表）/Templater/40 - Obsidian/img/结果.jpg"
   ]
 }

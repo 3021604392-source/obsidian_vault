@@ -11,15 +11,16 @@
   "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
   "Editor@@line-hover-indicator": true,
   "Editor@@focus-indicator-list-level": true,
-  "Editor@@border-focus-mode": true,
+  "Editor@@border-focus-mode": false,
   "Editor@@editor-grid-background-pattren": true,
   "Editor@@grid-background-pattern-size": "26px",
   "Mobile@@drawer-phone-full-width": false,
   "Plugin@@Projects-bg-color": "Projects-bg-color-default",
   "Plugin@@Surfing-bookmark-bar-hide": true,
-  "Components@@Ribbon-autohide": true,
+  "Components@@Ribbon-autohide": false,
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": false,
   "Components@@vault-profile-autohide": false,
-  "Components@@status-bar-autohide": false
+  "Components@@status-bar-autohide": false,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default"
 }
