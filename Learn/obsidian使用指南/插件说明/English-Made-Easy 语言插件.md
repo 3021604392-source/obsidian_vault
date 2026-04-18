@@ -10,8 +10,7 @@ Git地址：[PandoraReads/obsidian-English-Made-Easy: An immersive English learn
 - **快捷查词**：支持 `Ctrl/Cmd + 双击` 或 `拖拽选中` 立即在侧边栏弹出释义。
 - **上下文精准抓取**：查词时自动抓取包含该单词的完整句子作为例句，告别碎片化记忆。
 - **离线字典支持**：内置有道/Google/Bing 在线服务，并支持加载本地 **MDX/MDD** 专业词典。
-**数据持久化**：一键加入生词本，数据同步保存至 IndexedDB 及
-- [ ] 本地 生词本.md 文件。 #important
+**数据持久化**：一键加入生词本，数据同步保存至 IndexedDB 及本地生词本.md 文件。 
 
 ### 2. 🎨 高亮笔记卡片 (Highlight Note Cards)
 

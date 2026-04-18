@@ -8,47 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3811ea78540b16e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B list（列表）/Templater/脚本/修复项目统计20220530.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "修复项目统计20220530"
-            }
-          },
-          {
             "id": "09f7ce22d092b32a",
             "type": "leaf",
             "state": {
               "type": "soundscapes-react-view",
               "state": {},
-              "icon": "music",
-              "title": "Soundscapes: My Music"
-            }
-          },
-          {
-            "id": "a70af80838328e60",
-            "type": "leaf",
-            "state": {
-              "type": "task-genius-changelog",
-              "state": {},
-              "icon": "task-genius",
-              "title": "Changelog"
+              "icon": "lucide-ghost",
+              "title": "soundscapes-react-view"
             }
           },
           {
@@ -60,25 +26,26 @@
                 "currentWorkspace": "ws_1776290829752_gyuk40qhb",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "habit": "list"
+                  "working-on": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "habit"
+                "selectedProject": "山海经综合体",
+                "currentViewId": "working-on"
               },
               "icon": "task-genius",
               "title": "Task Genius"
             }
           },
           {
-            "id": "14ef74a96496ee3d",
+            "id": "53a9041132310eb8",
             "type": "leaf",
             "state": {
-              "type": "task-genius-onboarding",
+              "type": "thino_view",
               "state": {},
-              "icon": "task-genius",
-              "title": "Setup"
+              "icon": "lucide-ghost",
+              "title": "thino_view"
             }
           },
           {
@@ -87,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event （事件）/obsidian实现电脑本地文件的管理.md",
+                "file": "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,31 +69,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "obsidian实现电脑本地文件的管理"
-            }
-          },
-          {
-            "id": "e6f119bb9920e55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn/obsidian使用指南/插件说明/English-Made-Easy 语言插件.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English-Made-Easy 语言插件"
+              "title": "附件编辑管理 插件"
             }
           }
         ],
@@ -162,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#待办事项",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,17 +127,16 @@
             }
           },
           {
-            "id": "05654d98df897206",
+            "id": "9ede685af61ed04a",
             "type": "leaf",
             "state": {
-              "type": "notebook-navigator",
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "笔记本导航器"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,8 +233,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -301,8 +243,8 @@
             "state": {
               "type": "eme-flashcard-view",
               "state": {},
-              "icon": "brain",
-              "title": "闪卡复习"
+              "icon": "lucide-ghost",
+              "title": "eme-flashcard-view"
             }
           },
           {
@@ -311,8 +253,8 @@
             "state": {
               "type": "eme-dict-view",
               "state": {},
-              "icon": "book-open",
-              "title": "单词助手"
+              "icon": "lucide-ghost",
+              "title": "eme-dict-view"
             }
           },
           {
@@ -326,14 +268,14 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       },
       {
-        "id": "21852a3c3f07a7e5",
+        "id": "0b1bf64caa7b3d07",
         "type": "tabs",
         "children": [
           {
-            "id": "13c8bccc5dead7d9",
+            "id": "0546c634d15d1d49",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator-calendar",
@@ -357,69 +299,73 @@
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
-      "homepage:Open homepage": false,
       "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
-      "obsidian-git:Open Git source control": false,
-      "notebook-navigator:笔记本导航器": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "copilot:Open Copilot Chat": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-english-made-easy:闪卡复习": false,
       "obsidian-english-made-easy:单词助手": false,
+      "obsidian-english-made-easy:闪卡复习": false,
       "obsidian-english-made-easy:跟读工坊": false,
       "obsidian-english-made-easy:高亮笔记": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
       "soundscapes:Soundscapes: My Music": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false,
+      "notebook-navigator:笔记本导航器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "95c9d50a440b499c",
+  "active": "5d8931e230738e91",
   "lastOpenFiles": [
-    "Event （事件）/obsidian实现电脑本地文件的管理.md",
-    "B list（列表）/Templater/脚本/修复项目统计20220530.md",
-    "B list（列表）/Templater/脚本/Obsidian活动汇总.md",
-    "B list（列表）/Templater/脚本/每日总结汇总20220606.md",
-    "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md",
+    "Event （事件）/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
+    "Event （事件）/工作攻略/应聘指南/简历修改方向.md",
+    "Event （事件）/工作攻略/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
+    "Event （事件）/工作攻略/应聘指南/接offer5要点.md",
+    "Event （事件）/工作攻略/应聘指南/应聘offer过程.md",
+    "Event （事件）/工作攻略/应聘指南",
+    "Event （事件）/工作攻略/策展人.md",
+    "Event （事件）/工作攻略/创业合伙人攻略 3.29.md",
+    "Event （事件）/工作攻略/互联网营销.md",
+    "Event （事件）/工作攻略",
+    "Event （事件）/开发者指南/assets/开发者流程管理技能/file-20260413032327843.jpg",
+    "Event （事件）/开发者指南/assets/github使用指南/file-20260413032327511.png",
+    "Event （事件）/开发者指南/assets/github使用指南/file-20260413032327510.png",
+    "Event （事件）/开发者指南/assets/开发者流程管理技能",
+    "Event （事件）/开发者指南/assets/github使用指南",
+    "Event （事件）/开发者指南/开发者流程管理技能.md",
+    "Event （事件）/开发者指南/github使用指南.md",
+    "Event （事件）/开发者指南/assets",
+    "Event （事件）/开发者指南",
     "Diary（日记）/又是山海经！.md",
-    "B list（列表）/Templater/mybib.bib",
-    "B list（列表）/Templater/主页/00. 文件管理.md",
-    "B list（列表）/Templater/主页/00. 导航.md",
-    "B list（列表）/Templater/主页/00. 主页.md",
-    "B list（列表）/Templater/主页",
-    "B list（列表）/Templater/音乐/calming-rain.mp3",
-    "B list（列表）/Templater/音乐",
-    "B list（列表）/Templater/模板/项目模板.md",
-    "B list（列表）/Templater/模板/询问定义提示词.md",
-    "B list（列表）/Templater/模板/项目检索.base",
-    "B list（列表）/Templater/模板/输出笔记模板.md",
-    "B list（列表）/Templater/模板/概念检索论文.base",
-    "B list（列表）/Templater/模板/论文检索.base",
-    "B list（列表）/Templater/模板/每日日记模板.md",
-    "B list（列表）/Templater/模板/术语模板.md",
-    "B list（列表）/Templater/模板/每周周记模板.md",
-    "B list（列表）/Templater/模板/机构模板pro.md",
-    "B list（列表）/Templater/模板/机构模板.md",
-    "B list（列表）/Templater/模板/zt-note.eta.md",
-    "B list（列表）/Templater/模板/术语模板-手动.md",
-    "B list（列表）/Templater/模板/学者模板.md",
-    "B list（列表）/Templater/模板/学者检索.base",
-    "B list（列表）/Templater/模板/zt-field.eta.md",
-    "B list（列表）/Templater/模板/学术长文本模板 Longform academic template.md",
-    "B list（列表）/Templater/模板/zt-colored.eta.md",
-    "B list（列表）/Templater/模板/zt-cite2.eta.md",
-    "B list（列表）/Templater/模板/zt-cite.eta.md",
-    "B list（列表）/Templater/模板/zt-annot.eta.md",
-    "B list（列表）/Templater/模板/custom-reference.docx",
-    "B list（列表）/Templater/模板",
-    "B list（列表）/Templater/img/结果.jpg",
-    "B list（列表）/Templater/img/讨论.jpg",
-    "B list（列表）/Templater/img/方法.jpg",
-    "B list（列表）/Templater/img/PaperBell.jpg",
-    "B list（列表）/Templater/img/引言.jpg",
-    "B list（列表）/Templater/img/library.gif",
-    "B list（列表）/Templater/img/ABSESpy.png",
-    "B list（列表）/Templater/40 - Obsidian/img/引言.jpg",
-    "B list（列表）/Templater/40 - Obsidian/img/PaperBell.jpg",
-    "B list（列表）/Templater/40 - Obsidian/img/结果.jpg"
+    "Diary（日记）/2026-04-02 顺行性失忆.md",
+    "Home/音乐/calming-rain.mp3",
+    "Home/主页/00. 主页.md",
+    "Home/主页/00. 导航.md",
+    "2026-04-18.md",
+    "Courses（课程）/日语/跟读对话记日语单词/跟读对话记日语单词.md",
+    "2026-04-15计划通.md",
+    "Learn/obsidian使用指南/插件说明/English-Made-Easy 语言插件.md",
+    "Projects（项目）/术数系统/盲派/八字墓库.md",
+    "Outputs/PaperBell用户文档/进阶订制/笔记导出模板.md",
+    "Event （事件）/obsidian实现电脑本地文件的管理.md",
+    "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md",
+    "Outputs/PaperBell用户文档/功能介绍/日常记录.md",
+    "Outputs/PaperBell用户文档/功能介绍/管理科研项目.md",
+    "Outputs/PaperBell用户文档/功能介绍/导出学术文档.md",
+    "Outputs/PaperBell用户文档/插件一览/PaperBell专属插件.md",
+    "Outputs/demo/figs/formatting.png",
+    "Outputs/demo/imgs/organizing.png",
+    "Outputs/PaperBell用户文档/imgs/追踪项目.gif",
+    "Outputs/PaperBell用户文档/imgs/使用thino进行随手记.gif",
+    "Outputs/PaperBell用户文档/imgs/科学革命的结构.jpg",
+    "Outputs/PaperBell用户文档/imgs/更新项目url链接.gif",
+    "Outputs/PaperBell用户文档/imgs/打开教程.png",
+    "Outputs/PaperBell用户文档/进阶订制",
+    "Outputs/PaperBell用户文档/设计理念",
+    "Outputs/PaperBell用户文档/用户答疑"
   ]
 }

@@ -996,7 +996,7 @@
       "ws_1776290829752_gyuk40qhb": {
         "id": "ws_1776290829752_gyuk40qhb",
         "name": "Default",
-        "updatedAt": 1776293720418,
+        "updatedAt": 1776296300973,
         "settings": {
           "fluentFilterState": {
             "inbox": {
@@ -1082,9 +1082,23 @@
             },
             "quadrant": {
               "filters": {},
+              "selectedProject": "山海经综合体",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1776293719917",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1776293719917",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "山海经综合体"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1117,7 +1131,24 @@
             },
             "working-on": {
               "filters": {},
-              "advancedFilter": null,
+              "selectedProject": "山海经综合体",
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1776293719917",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1776293719917",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "山海经综合体"
+                      }
+                    ]
+                  }
+                ]
+              },
               "viewMode": "list"
             },
             "tags": {
@@ -1126,7 +1157,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "working-on"
         }
       }
     }

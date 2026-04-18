@@ -1,7 +1,6 @@
 ---
 tags:
   - 待办事项
-excalidraw-mask: false
 ---
 BV1HP411R7vS
 采用obsidian实现本地电脑文件的管理，视频从知识管理和任务管理的角度出发，阐述了笔记管理和电脑文件管理是知识管理的核心。  
