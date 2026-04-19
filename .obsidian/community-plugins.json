@@ -10,9 +10,9 @@
   "obsidian-task-progress-bar",
   "templater-obsidian",
   "obsidian-memos",
-  "zotlit",
   "obsidian-react-components",
   "notebook-navigator",
   "obsidian-minimal-settings",
-  "longform"
+  "longform",
+  "zotlit"
 ]

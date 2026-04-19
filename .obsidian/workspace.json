@@ -21,37 +21,6 @@
             "id": "95c9d50a440b499c",
             "type": "leaf",
             "state": {
-              "type": "fluent-task-genius-view",
-              "state": {
-                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
-                "viewMode": "list",
-                "viewModeByViewId": {
-                  "working-on": "list"
-                },
-                "searchQuery": "",
-                "filters": {},
-                "filterInputValue": "",
-                "selectedProject": "山海经综合体",
-                "currentViewId": "working-on"
-              },
-              "icon": "lucide-ghost",
-              "title": "fluent-task-genius-view"
-            }
-          },
-          {
-            "id": "53a9041132310eb8",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "thino_view"
-            }
-          },
-          {
-            "id": "5d8931e230738e91",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "2026-04-19.md",
@@ -71,9 +40,53 @@
               "icon": "lucide-file",
               "title": "2026-04-19"
             }
+          },
+          {
+            "id": "53a9041132310eb8",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "thino_view"
+            }
+          },
+          {
+            "id": "5d8931e230738e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "附件编辑管理 插件"
+            }
+          },
+          {
+            "id": "2fb2ef73db03e3e3",
+            "type": "leaf",
+            "state": {
+              "type": "task-genius-onboarding",
+              "state": {},
+              "icon": "task-genius",
+              "title": "Setup"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,20 +140,20 @@
             }
           },
           {
-            "id": "9ede685af61ed04a",
+            "id": "f2c7d5f5b24332af",
             "type": "leaf",
             "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "type": "notebook-navigator",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 272.5
   },
   "right": {
     "id": "e55dbdf49a874cb7",
@@ -233,8 +246,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -243,8 +256,8 @@
             "state": {
               "type": "eme-flashcard-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "eme-flashcard-view"
+              "icon": "brain",
+              "title": "闪卡复习"
             }
           },
           {
@@ -253,22 +266,12 @@
             "state": {
               "type": "eme-dict-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "eme-dict-view"
-            }
-          },
-          {
-            "id": "26399555a2bd7374",
-            "type": "leaf",
-            "state": {
-              "type": "eme-highlight-view",
-              "state": {},
-              "icon": "highlighter",
-              "title": "高亮笔记"
+              "icon": "book-open",
+              "title": "单词助手"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "0b1bf64caa7b3d07",
@@ -283,12 +286,33 @@
               "icon": "notebook-navigator",
               "title": "日历"
             }
+          },
+          {
+            "id": "9ede685af61ed04a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "26399555a2bd7374",
+            "type": "leaf",
+            "state": {
+              "type": "eme-highlight-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "高亮笔记"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,10 +328,10 @@
       "zk-prefixer:创建时间戳笔记": false,
       "obsidian-english-made-easy:单词助手": false,
       "obsidian-english-made-easy:闪卡复习": false,
+      "soundscapes:Soundscapes: My Music": false,
       "obsidian-english-made-easy:跟读工坊": false,
       "obsidian-english-made-easy:高亮笔记": false,
       "obsidian-git:Open Git source control": false,
-      "soundscapes:Soundscapes: My Music": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
@@ -315,10 +339,11 @@
       "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "5d8931e230738e91",
+  "active": "95c9d50a440b499c",
   "lastOpenFiles": [
-    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
     "2026-04-19.md",
+    "2026-04-18.md",
+    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
     "Event （事件）/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
     "Event （事件）/工作攻略/应聘指南/简历修改方向.md",
     "Event （事件）/工作攻略/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
@@ -343,11 +368,10 @@
     "Home/音乐/calming-rain.mp3",
     "Home/主页/00. 主页.md",
     "Home/主页/00. 导航.md",
-    "2026-04-18.md",
     "Courses（课程）/日语/跟读对话记日语单词/跟读对话记日语单词.md",
     "2026-04-15计划通.md",
     "Learn/obsidian使用指南/插件说明/English-Made-Easy 语言插件.md",
-    "Projects（项目）/术数系统/盲派/八字墓库.md",
+    "Courses（课程）/术数系统/盲派/八字墓库.md",
     "Outputs/PaperBell用户文档/进阶订制/笔记导出模板.md",
     "Event （事件）/obsidian实现电脑本地文件的管理.md",
     "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md",
