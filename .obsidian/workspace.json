@@ -74,19 +74,9 @@
               "icon": "lucide-file",
               "title": "附件编辑管理 插件"
             }
-          },
-          {
-            "id": "2fb2ef73db03e3e3",
-            "type": "leaf",
-            "state": {
-              "type": "task-genius-onboarding",
-              "state": {},
-              "icon": "task-genius",
-              "title": "Setup"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,24 +259,24 @@
               "icon": "book-open",
               "title": "单词助手"
             }
+          },
+          {
+            "id": "ee66a17aa2203f3c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "0b1bf64caa7b3d07",
         "type": "tabs",
         "children": [
-          {
-            "id": "0546c634d15d1d49",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "日历"
-            }
-          },
           {
             "id": "9ede685af61ed04a",
             "type": "leaf",
@@ -308,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -316,6 +306,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -339,7 +331,7 @@
       "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "95c9d50a440b499c",
+  "active": "5d8931e230738e91",
   "lastOpenFiles": [
     "2026-04-19.md",
     "2026-04-18.md",

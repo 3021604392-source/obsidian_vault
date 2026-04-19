@@ -6,7 +6,6 @@
   "obsidian-git",
   "soundscapes",
   "obsidian-style-settings",
-  "tars",
   "obsidian-task-progress-bar",
   "templater-obsidian",
   "obsidian-memos",
@@ -14,5 +13,9 @@
   "notebook-navigator",
   "obsidian-minimal-settings",
   "longform",
-  "zotlit"
+  "zotlit",
+  "quickadd",
+  "obsidian-importer",
+  "metadata-menu",
+  "calendar"
 ]
