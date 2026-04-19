@@ -34,8 +34,8 @@
                 "selectedProject": "山海经综合体",
                 "currentViewId": "working-on"
               },
-              "icon": "task-genius",
-              "title": "Task Genius"
+              "icon": "lucide-ghost",
+              "title": "fluent-task-genius-view"
             }
           },
           {
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+                "file": "2026-04-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,7 +69,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "附件编辑管理 插件"
+              "title": "2026-04-19"
             }
           }
         ],
@@ -302,25 +302,23 @@
       "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-english-made-easy:单词助手": false,
       "obsidian-english-made-easy:闪卡复习": false,
       "obsidian-english-made-easy:跟读工坊": false,
       "obsidian-english-made-easy:高亮笔记": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "soundscapes:Soundscapes: My Music": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
       "notebook-navigator:笔记本导航器": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "media-extended:Open external media": false
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
   "active": "5d8931e230738e91",
   "lastOpenFiles": [
+    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
+    "2026-04-19.md",
     "Event （事件）/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
     "Event （事件）/工作攻略/应聘指南/简历修改方向.md",
     "Event （事件）/工作攻略/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
@@ -355,8 +353,6 @@
     "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md",
     "Outputs/PaperBell用户文档/功能介绍/日常记录.md",
     "Outputs/PaperBell用户文档/功能介绍/管理科研项目.md",
-    "Outputs/PaperBell用户文档/功能介绍/导出学术文档.md",
-    "Outputs/PaperBell用户文档/插件一览/PaperBell专属插件.md",
     "Outputs/demo/figs/formatting.png",
     "Outputs/demo/imgs/organizing.png",
     "Outputs/PaperBell用户文档/imgs/追踪项目.gif",
