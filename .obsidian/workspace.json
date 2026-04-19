@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24d4a8f82049fbc3",
+        "id": "20c35cd8bc444f25",
         "type": "tabs",
         "children": [
           {
-            "id": "35155a757f524ed3",
-            "type": "leaf",
-            "state": {
-              "type": "task-genius-onboarding",
-              "state": {},
-              "icon": "task-genius",
-              "title": "Setup"
-            }
-          },
-          {
-            "id": "e163b872e2e25f39",
+            "id": "51ccb8c599344882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
+                "file": "Projects（项目）/AI/sd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "obsidian实现电脑本地文件的管理"
+              "title": "sd"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,6 +205,16 @@
               "icon": "brain",
               "title": "闪卡复习"
             }
+          },
+          {
+            "id": "725bf49f39bc5de1",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "日历"
+            }
           }
         ],
         "currentTab": 5
@@ -245,10 +244,8 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "zk-prefixer:创建时间戳笔记": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
@@ -266,9 +263,21 @@
       "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "e163b872e2e25f39",
+  "active": "51ccb8c599344882",
   "lastOpenFiles": [
+    "2026/20260420.md",
     "2026-04-20.md",
+    "2026",
+    "README/插件说明/floating toc 大纲视图插件.md",
+    "Projects（项目）/AI/sd.md",
+    "README/插件说明/Metadata Menu 元数据编辑插件.md",
+    "README/插件说明/English-Made-Easy 语言插件.md",
+    "Home/脚本/修复项目统计20220530.md",
+    "Literature（文献）/assets/一云梯/file-20260413114835059.jpg",
+    "Outputs/demo/source/DEMO_讨论.md",
+    "Outputs/demo/imgs/organizing.png",
+    "Outputs/demo/DEMO_manuscript.md",
+    "Projects（项目）/obsidian实现电脑本地文件的管理.md",
     "Projects（项目）/本地 生词本.md 文件.md",
     "2026-04-15计划通.md"
   ]

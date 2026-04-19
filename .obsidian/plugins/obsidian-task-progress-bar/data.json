@@ -872,7 +872,7 @@
     "timeFormat": "{h}hrs {m}mins",
     "blockRefPrefix": "timer"
   },
-  "enableCustomDateFormats": false,
+  "enableCustomDateFormats": true,
   "customDateFormats": [],
   "onboarding": {
     "completed": false,
