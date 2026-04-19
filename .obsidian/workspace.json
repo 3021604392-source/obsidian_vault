@@ -13,8 +13,8 @@
             "state": {
               "type": "task-genius-onboarding",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "task-genius-onboarding"
+              "icon": "task-genius",
+              "title": "Setup"
             }
           },
           {
@@ -262,13 +262,14 @@
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
       "notebook-navigator:笔记本导航器": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "ead4bfbc796445a9",
+  "active": "e163b872e2e25f39",
   "lastOpenFiles": [
+    "2026-04-20.md",
     "Projects（项目）/本地 生词本.md 文件.md",
-    "2026-04-15计划通.md",
-    "2026-04-20.md"
+    "2026-04-15计划通.md"
   ]
 }
