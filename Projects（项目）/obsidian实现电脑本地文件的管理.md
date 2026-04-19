@@ -9,7 +9,7 @@ BV1HP411R7vS
 需要quicker和python环境配合。  
   
 # 主题  
-- [ ] Obsidian管理电脑上的文件 #urgent #important 🔺 🔁 每天 🆔 1
+Obsidian管理电脑上的文件 #urgent #important 🔺 🔁 每天 🆔 1
 1. 主题的引出  
 # 思路  
 1. 电脑上的文件不要动，设置一个按照日期排列的文件夹  

@@ -1,29 +1,29 @@
 {
   "main": {
-    "id": "e497d9a7f1eed3a0",
+    "id": "24cde79682924996",
     "type": "split",
     "children": [
       {
-        "id": "b7c4fad5ee386766",
+        "id": "24d4a8f82049fbc3",
         "type": "tabs",
         "children": [
           {
-            "id": "09f7ce22d092b32a",
+            "id": "35155a757f524ed3",
             "type": "leaf",
             "state": {
-              "type": "soundscapes-react-view",
+              "type": "task-genius-onboarding",
               "state": {},
               "icon": "lucide-ghost",
-              "title": "soundscapes-react-view"
+              "title": "task-genius-onboarding"
             }
           },
           {
-            "id": "95c9d50a440b499c",
+            "id": "e163b872e2e25f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-19.md",
+                "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,59 +38,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-19"
-            }
-          },
-          {
-            "id": "53a9041132310eb8",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "thino_view"
-            }
-          },
-          {
-            "id": "5d8931e230738e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "附件编辑管理 插件"
+              "title": "obsidian实现电脑本地文件的管理"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ebb655a08b950372",
+    "id": "020de56dc21730f6",
     "type": "split",
     "children": [
       {
-        "id": "68e592fbbc88f3aa",
+        "id": "9737ee10c09222ce",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a8f68265c962f1",
+            "id": "0570bde78c3d5c8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -103,7 +69,7 @@
             }
           },
           {
-            "id": "5fad45ccfe7d1996",
+            "id": "518d2518d34a83fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -120,7 +86,7 @@
             }
           },
           {
-            "id": "520219fc701e46a2",
+            "id": "d1e6aa53892d6c2b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,7 +96,17 @@
             }
           },
           {
-            "id": "f2c7d5f5b24332af",
+            "id": "88fc8fdc83d5cad9",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "ead4bfbc796445a9",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -139,27 +115,28 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 300
   },
   "right": {
-    "id": "e55dbdf49a874cb7",
+    "id": "0950427cbc1a4d26",
     "type": "split",
     "children": [
       {
-        "id": "124c11fd02153e09",
+        "id": "26ad0e5fc77a0740",
         "type": "tabs",
         "children": [
           {
-            "id": "a5d464065b30725d",
+            "id": "c597c87fbca8e2ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
+                "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,40 +146,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "策展人 的反向链接列表"
+              "title": "obsidian实现电脑本地文件的管理 的反向链接列表"
             }
           },
           {
-            "id": "146a2c7ef1e823c6",
+            "id": "fa541cd6dc78969a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event （事件）/职业规划2025.12.5起/策展人/策展人.md",
+                "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "策展人 的出链列表"
+              "title": "obsidian实现电脑本地文件的管理 的出链列表"
             }
           },
           {
-            "id": "fb86eabbb6e4721b",
+            "id": "2d78c11b6fa37acd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
-                "searchQuery": "待办"
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "27125fca8dfbe04b",
+            "id": "dcb474186d43110c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -216,32 +193,22 @@
             }
           },
           {
-            "id": "d57f82c63c1d1e11",
+            "id": "d284d3ec6a6a9889",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-15计划通.md",
+                "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-15计划通 的大纲"
+              "title": "obsidian实现电脑本地文件的管理 的大纲"
             }
           },
           {
-            "id": "4122a9c2bf206fbc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "462f6e110eee72f1",
+            "id": "dfa70caa77e0848a",
             "type": "leaf",
             "state": {
               "type": "eme-flashcard-view",
@@ -249,135 +216,59 @@
               "icon": "brain",
               "title": "闪卡复习"
             }
-          },
-          {
-            "id": "476721848220e046",
-            "type": "leaf",
-            "state": {
-              "type": "eme-dict-view",
-              "state": {},
-              "icon": "book-open",
-              "title": "单词助手"
-            }
-          },
-          {
-            "id": "ee66a17aa2203f3c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
-        "id": "0b1bf64caa7b3d07",
+        "id": "1a44fd033b0a5487",
         "type": "tabs",
         "children": [
           {
-            "id": "9ede685af61ed04a",
+            "id": "376be77d3435b456",
             "type": "leaf",
             "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "type": "notebook-navigator-calendar",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
-            }
-          },
-          {
-            "id": "26399555a2bd7374",
-            "type": "leaf",
-            "state": {
-              "type": "eme-highlight-view",
-              "state": {},
-              "icon": "highlighter",
-              "title": "高亮笔记"
+              "icon": "notebook-navigator",
+              "title": "日历"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "zk-prefixer:创建时间戳笔记": false,
       "obsidian-english-made-easy:单词助手": false,
-      "obsidian-english-made-easy:闪卡复习": false,
-      "soundscapes:Soundscapes: My Music": false,
       "obsidian-english-made-easy:跟读工坊": false,
       "obsidian-english-made-easy:高亮笔记": false,
+      "obsidian-english-made-easy:闪卡复习": false,
       "obsidian-git:Open Git source control": false,
+      "soundscapes:Soundscapes: My Music": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
       "notebook-navigator:笔记本导航器": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5d8931e230738e91",
+  "active": "ead4bfbc796445a9",
   "lastOpenFiles": [
-    "2026-04-19.md",
-    "2026-04-18.md",
-    "Learn/obsidian使用指南/插件说明/附件编辑管理 插件.md",
-    "Event （事件）/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
-    "Event （事件）/工作攻略/应聘指南/简历修改方向.md",
-    "Event （事件）/工作攻略/应聘指南/校招设计面试必问的 16 个高价值问题整理.md",
-    "Event （事件）/工作攻略/应聘指南/接offer5要点.md",
-    "Event （事件）/工作攻略/应聘指南/应聘offer过程.md",
-    "Event （事件）/工作攻略/应聘指南",
-    "Event （事件）/工作攻略/策展人.md",
-    "Event （事件）/工作攻略/创业合伙人攻略 3.29.md",
-    "Event （事件）/工作攻略/互联网营销.md",
-    "Event （事件）/工作攻略",
-    "Event （事件）/开发者指南/assets/开发者流程管理技能/file-20260413032327843.jpg",
-    "Event （事件）/开发者指南/assets/github使用指南/file-20260413032327511.png",
-    "Event （事件）/开发者指南/assets/github使用指南/file-20260413032327510.png",
-    "Event （事件）/开发者指南/assets/开发者流程管理技能",
-    "Event （事件）/开发者指南/assets/github使用指南",
-    "Event （事件）/开发者指南/开发者流程管理技能.md",
-    "Event （事件）/开发者指南/github使用指南.md",
-    "Event （事件）/开发者指南/assets",
-    "Event （事件）/开发者指南",
-    "Diary（日记）/又是山海经！.md",
-    "Diary（日记）/2026-04-02 顺行性失忆.md",
-    "Home/音乐/calming-rain.mp3",
-    "Home/主页/00. 主页.md",
-    "Home/主页/00. 导航.md",
-    "Courses（课程）/日语/跟读对话记日语单词/跟读对话记日语单词.md",
+    "Projects（项目）/本地 生词本.md 文件.md",
     "2026-04-15计划通.md",
-    "Learn/obsidian使用指南/插件说明/English-Made-Easy 语言插件.md",
-    "Courses（课程）/术数系统/盲派/八字墓库.md",
-    "Outputs/PaperBell用户文档/进阶订制/笔记导出模板.md",
-    "Event （事件）/obsidian实现电脑本地文件的管理.md",
-    "B list（列表）/Templater/脚本/tasksCalendar/任务面板.md",
-    "Outputs/PaperBell用户文档/功能介绍/日常记录.md",
-    "Outputs/PaperBell用户文档/功能介绍/管理科研项目.md",
-    "Outputs/demo/figs/formatting.png",
-    "Outputs/demo/imgs/organizing.png",
-    "Outputs/PaperBell用户文档/imgs/追踪项目.gif",
-    "Outputs/PaperBell用户文档/imgs/使用thino进行随手记.gif",
-    "Outputs/PaperBell用户文档/imgs/科学革命的结构.jpg",
-    "Outputs/PaperBell用户文档/imgs/更新项目url链接.gif",
-    "Outputs/PaperBell用户文档/imgs/打开教程.png",
-    "Outputs/PaperBell用户文档/进阶订制",
-    "Outputs/PaperBell用户文档/设计理念",
-    "Outputs/PaperBell用户文档/用户答疑"
+    "2026-04-20.md"
   ]
 }
