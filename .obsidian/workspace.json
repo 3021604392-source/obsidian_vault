@@ -8,12 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51ccb8c599344882",
+            "id": "6d9d9994f340881f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "fluent-task-genius-view",
+              "state": {
+                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
+                "viewMode": "list",
+                "viewModeByViewId": {
+                  "working-on": "list"
+                },
+                "searchQuery": "",
+                "filters": {},
+                "filterInputValue": "",
+                "selectedProject": "山海经综合体",
+                "currentViewId": "working-on"
+              },
+              "pinned": true,
+              "icon": "task-genius",
+              "title": "Task Genius"
+            }
+          },
+          {
+            "id": "53b7ae8a194aa0b2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI提示词.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "AI提示词"
+            }
+          },
+          {
+            "id": "6b454c9a2275ca4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects（项目）/AI/sd.md",
+                "file": "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +77,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sd"
+              "title": "小众 AI 可视化：Mermaid 一键生成图表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,6 +168,7 @@
       {
         "id": "26ad0e5fc77a0740",
         "type": "tabs",
+        "dimension": 42.07848837209303,
         "children": [
           {
             "id": "c597c87fbca8e2ce",
@@ -197,16 +248,6 @@
             }
           },
           {
-            "id": "dfa70caa77e0848a",
-            "type": "leaf",
-            "state": {
-              "type": "eme-flashcard-view",
-              "state": {},
-              "icon": "brain",
-              "title": "闪卡复习"
-            }
-          },
-          {
             "id": "725bf49f39bc5de1",
             "type": "leaf",
             "state": {
@@ -222,22 +263,23 @@
       {
         "id": "1a44fd033b0a5487",
         "type": "tabs",
+        "dimension": 57.92151162790697,
         "children": [
           {
-            "id": "376be77d3435b456",
+            "id": "dfa70caa77e0848a",
             "type": "leaf",
             "state": {
-              "type": "notebook-navigator-calendar",
+              "type": "eme-flashcard-view",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "日历"
+              "icon": "brain",
+              "title": "闪卡复习"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,19 +305,35 @@
       "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "51ccb8c599344882",
+  "active": "6b454c9a2275ca4a",
   "lastOpenFiles": [
+    "Pasted image 20260421042227.png",
+    "Pasted image 20260421042103.png",
+    "Pasted image 20260421041923.png",
+    "Pasted image 20260421041841.png",
+    "Pasted image 20260421041829.png",
+    "Pasted image 20260421041740.png",
+    "Pasted image 20260421041651.png",
+    "Pasted image 20260421041631.png",
+    "Pasted image 20260421041600.png",
+    "Pasted image 20260421041511.png",
+    "Pasted image 20260421041436.png",
+    "Literature（文献）/未命名.md",
+    "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
+    "AI提示词.md",
+    "Literature（文献）/突破个人能力天花板，和 AI 协作的 12 个范式.md",
+    "Literature（文献）/玩了一个月 AI，我发现 99% 的视频都在骗你.md",
+    "README/插件说明/Copilot API插件.md",
+    "README/插件说明/附件编辑管理 插件.md",
+    "README/插件说明/floating toc 大纲视图插件.md",
+    "Projects（项目）/AI/sd.md",
     "2026/20260420.md",
     "2026-04-20.md",
     "2026",
-    "README/插件说明/floating toc 大纲视图插件.md",
-    "Projects（项目）/AI/sd.md",
     "README/插件说明/Metadata Menu 元数据编辑插件.md",
     "README/插件说明/English-Made-Easy 语言插件.md",
     "Home/脚本/修复项目统计20220530.md",
-    "Literature（文献）/assets/一云梯/file-20260413114835059.jpg",
     "Outputs/demo/source/DEMO_讨论.md",
-    "Outputs/demo/imgs/organizing.png",
     "Outputs/demo/DEMO_manuscript.md",
     "Projects（项目）/obsidian实现电脑本地文件的管理.md",
     "Projects（项目）/本地 生词本.md 文件.md",

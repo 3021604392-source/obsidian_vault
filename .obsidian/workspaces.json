@@ -760,7 +760,291 @@
       },
       "active": "bea193041ba003bd",
       "mtime": "2026-04-05T05:54:29+08:00"
+    },
+    "凛奈千姬": {
+      "main": {
+        "id": "24cde79682924996",
+        "type": "split",
+        "children": [
+          {
+            "id": "20c35cd8bc444f25",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d9d9994f340881f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "fluent-task-genius-view",
+                  "state": {
+                    "currentWorkspace": "ws_1776290829752_gyuk40qhb",
+                    "viewMode": "list",
+                    "viewModeByViewId": {
+                      "working-on": "list"
+                    },
+                    "searchQuery": "",
+                    "filters": {},
+                    "filterInputValue": "",
+                    "selectedProject": "山海经综合体",
+                    "currentViewId": "working-on"
+                  },
+                  "pinned": true,
+                  "icon": "task-genius",
+                  "title": "Task Genius"
+                }
+              },
+              {
+                "id": "92e171835f2b78d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README/插件说明/Copilot API插件.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Copilot API插件"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "020de56dc21730f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "9737ee10c09222ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0570bde78c3d5c8a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "518d2518d34a83fb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "d1e6aa53892d6c2b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "88fc8fdc83d5cad9",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              },
+              {
+                "id": "ead4bfbc796445a9",
+                "type": "leaf",
+                "state": {
+                  "type": "notebook-navigator",
+                  "state": {},
+                  "icon": "notebook-navigator",
+                  "title": "笔记本导航器"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "0950427cbc1a4d26",
+        "type": "split",
+        "children": [
+          {
+            "id": "26ad0e5fc77a0740",
+            "type": "tabs",
+            "dimension": 42.07848837209303,
+            "children": [
+              {
+                "id": "c597c87fbca8e2ce",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "obsidian实现电脑本地文件的管理 的反向链接列表"
+                }
+              },
+              {
+                "id": "fa541cd6dc78969a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "obsidian实现电脑本地文件的管理 的出链列表"
+                }
+              },
+              {
+                "id": "2d78c11b6fa37acd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "dcb474186d43110c",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "d284d3ec6a6a9889",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Projects（项目）/obsidian实现电脑本地文件的管理.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "obsidian实现电脑本地文件的管理 的大纲"
+                }
+              },
+              {
+                "id": "725bf49f39bc5de1",
+                "type": "leaf",
+                "state": {
+                  "type": "notebook-navigator-calendar",
+                  "state": {},
+                  "icon": "notebook-navigator",
+                  "title": "日历"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "1a44fd033b0a5487",
+            "type": "tabs",
+            "dimension": 57.92151162790697,
+            "children": [
+              {
+                "id": "dfa70caa77e0848a",
+                "type": "leaf",
+                "state": {
+                  "type": "eme-flashcard-view",
+                  "state": {},
+                  "icon": "brain",
+                  "title": "闪卡复习"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "bases:新建数据库": false,
+          "obsidian-english-made-easy:单词助手": false,
+          "obsidian-english-made-easy:跟读工坊": false,
+          "obsidian-english-made-easy:高亮笔记": false,
+          "obsidian-english-made-easy:闪卡复习": false,
+          "obsidian-git:Open Git source control": false,
+          "soundscapes:Soundscapes: My Music": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-memos:Thino": false,
+          "obsidian-memos:Thino Super": false,
+          "notebook-navigator:笔记本导航器": false,
+          "obsidian-importer:Open Importer": false,
+          "obsidian-task-progress-bar:打开 Task Genius 视图": false
+        }
+      },
+      "active": "92e171835f2b78d7",
+      "mtime": "2026-04-21T02:33:59+08:00"
     }
   },
-  "active": "2026"
+  "active": "凛奈千姬"
 }

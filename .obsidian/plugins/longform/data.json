@@ -6,6 +6,33 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-04-20T17:01:03.087Z",
+      "total": 0,
+      "drafts": {
+        "README/PaperBell用户文档/index.md": {
+          "total": 0,
+          "scenes": {
+            "日常记录": 0,
+            "文献阅读笔记": 0,
+            "管理科研项目": 0,
+            "撰写输出笔记": 0,
+            "撰写长文本": 0,
+            "导出学术文档": 0,
+            "追踪学者和组织": 0
+          }
+        },
+        "Outputs/demo/Index.md": {
+          "total": 0,
+          "scenes": {
+            "DEMO_引言": 0,
+            "DEMO_结果": 0,
+            "DEMO_讨论": 0,
+            "DEMO_方法": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-04-19T17:25:28.477Z",
       "total": 4205,
       "drafts": {
