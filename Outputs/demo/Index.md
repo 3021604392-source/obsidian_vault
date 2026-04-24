@@ -5,11 +5,7 @@ longform:
   title: PaperBell学术写作完全指南
   workflow: PaperBell-Standard
   sceneFolder: source
-  scenes:
-    - DEMO_引言
-    - DEMO_结果
-    - DEMO_讨论
-    - DEMO_方法
+  scenes: []
   sceneTemplate: 40 - Obsidian/模板/学术长文本模板 Longform academic template.md
   ignoredFiles: []
 title: PaperBell：基于 Obsidian 的学术写作管理系统

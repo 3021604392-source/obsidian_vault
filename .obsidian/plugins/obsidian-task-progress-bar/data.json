@@ -996,7 +996,7 @@
       "ws_1776290829752_gyuk40qhb": {
         "id": "ws_1776290829752_gyuk40qhb",
         "name": "Default",
-        "updatedAt": 1776632590654,
+        "updatedAt": 1776892070347,
         "settings": {
           "fluentFilterState": {
             "inbox": {
@@ -1016,11 +1016,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1776293513786",
+                    "id": "fluent-proj-group-1776891972238",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1776293513786",
+                        "id": "fluent-proj-filter-1776891972238",
                         "property": "project",
                         "condition": "is",
                         "value": "山海经综合体"
@@ -1038,11 +1038,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1776293513786",
+                    "id": "fluent-proj-group-1776891972238",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1776293513786",
+                        "id": "fluent-proj-filter-1776891972238",
                         "property": "project",
                         "condition": "is",
                         "value": "山海经综合体"
@@ -1060,11 +1060,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1776293719917",
+                    "id": "fluent-proj-group-1776891972238",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1776293719917",
+                        "id": "fluent-proj-filter-1776891972238",
                         "property": "project",
                         "condition": "is",
                         "value": "山海经综合体"
@@ -1073,7 +1073,7 @@
                   }
                 ]
               },
-              "viewMode": "tree"
+              "viewMode": "list"
             },
             "forecast": {
               "filters": {},
@@ -1104,7 +1104,24 @@
             },
             "calendar": {
               "filters": {},
-              "advancedFilter": null,
+              "selectedProject": "山海经综合体",
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1776891972238",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1776891972238",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "山海经综合体"
+                      }
+                    ]
+                  }
+                ]
+              },
               "viewMode": "list"
             },
             "kanban": {
@@ -1136,11 +1153,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1776293719917",
+                    "id": "fluent-proj-group-1776891972238",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1776293719917",
+                        "id": "fluent-proj-filter-1776891972238",
                         "property": "project",
                         "condition": "is",
                         "value": "山海经综合体"
@@ -1157,7 +1174,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "working-on"
+          "fluentActiveViewId": "habit"
         }
       }
     }

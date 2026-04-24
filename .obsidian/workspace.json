@@ -17,13 +17,13 @@
                 "currentWorkspace": "ws_1776290829752_gyuk40qhb",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "working-on": "list"
+                  "habit": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
                 "selectedProject": "山海经综合体",
-                "currentViewId": "working-on"
+                "currentViewId": "habit"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -57,12 +57,12 @@
             }
           },
           {
-            "id": "6b454c9a2275ca4a",
+            "id": "c2e19a62f4efee6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
+                "file": "Projects（项目）/薅羊毛打金软件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "小众 AI 可视化：Mermaid 一键生成图表"
+              "title": "薅羊毛打金软件"
             }
           }
         ],
@@ -305,8 +305,12 @@
       "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "6b454c9a2275ca4a",
+  "active": "c2e19a62f4efee6b",
   "lastOpenFiles": [
+    "Projects（项目）/薅羊毛打金软件.md",
+    "Outputs/demo/source/DEMO_讨论.md",
+    "AI提示词.md",
+    "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
     "Pasted image 20260421042227.png",
     "Pasted image 20260421042103.png",
     "Pasted image 20260421041923.png",
@@ -317,10 +321,7 @@
     "Pasted image 20260421041631.png",
     "Pasted image 20260421041600.png",
     "Pasted image 20260421041511.png",
-    "Pasted image 20260421041436.png",
     "Literature（文献）/未命名.md",
-    "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
-    "AI提示词.md",
     "Literature（文献）/突破个人能力天花板，和 AI 协作的 12 个范式.md",
     "Literature（文献）/玩了一个月 AI，我发现 99% 的视频都在骗你.md",
     "README/插件说明/Copilot API插件.md",
@@ -333,7 +334,6 @@
     "README/插件说明/Metadata Menu 元数据编辑插件.md",
     "README/插件说明/English-Made-Easy 语言插件.md",
     "Home/脚本/修复项目统计20220530.md",
-    "Outputs/demo/source/DEMO_讨论.md",
     "Outputs/demo/DEMO_manuscript.md",
     "Projects（项目）/obsidian实现电脑本地文件的管理.md",
     "Projects（项目）/本地 生词本.md 文件.md",
