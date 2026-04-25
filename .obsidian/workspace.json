@@ -140,8 +140,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           },
           {
@@ -256,6 +256,26 @@
               "icon": "notebook-navigator",
               "title": "日历"
             }
+          },
+          {
+            "id": "0e4cf1270f0bb746",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator-calendar"
+            }
+          },
+          {
+            "id": "9df3d5d77baa9658",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "日历"
+            }
           }
         ],
         "currentTab": 5
@@ -292,20 +312,19 @@
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
       "obsidian-english-made-easy:单词助手": false,
+      "obsidian-english-made-easy:闪卡复习": false,
       "obsidian-english-made-easy:跟读工坊": false,
       "obsidian-english-made-easy:高亮笔记": false,
-      "obsidian-english-made-easy:闪卡复习": false,
       "obsidian-git:Open Git source control": false,
       "soundscapes:Soundscapes: My Music": false,
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "notebook-navigator:笔记本导航器": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "c2e19a62f4efee6b",
+  "active": "ead4bfbc796445a9",
   "lastOpenFiles": [
     "Projects（项目）/薅羊毛打金软件.md",
     "Outputs/demo/source/DEMO_讨论.md",

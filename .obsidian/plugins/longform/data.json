@@ -6,6 +6,72 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-04-25T23:38:35.712Z",
+      "total": 0,
+      "drafts": {
+        "README/PaperBell用户文档/index.md": {
+          "total": 0,
+          "scenes": {
+            "日常记录": 0,
+            "文献阅读笔记": 0,
+            "管理科研项目": 0,
+            "撰写输出笔记": 0,
+            "撰写长文本": 0,
+            "导出学术文档": 0,
+            "追踪学者和组织": 0
+          }
+        },
+        "Outputs/demo/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2026-04-24T23:07:50.125Z",
+      "total": 0,
+      "drafts": {
+        "README/PaperBell用户文档/index.md": {
+          "total": 0,
+          "scenes": {
+            "日常记录": 0,
+            "文献阅读笔记": 0,
+            "管理科研项目": 0,
+            "撰写输出笔记": 0,
+            "撰写长文本": 0,
+            "导出学术文档": 0,
+            "追踪学者和组织": 0
+          }
+        },
+        "Outputs/demo/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2026-04-24T05:48:49.229Z",
+      "total": 0,
+      "drafts": {
+        "README/PaperBell用户文档/index.md": {
+          "total": 0,
+          "scenes": {
+            "日常记录": 0,
+            "文献阅读笔记": 0,
+            "管理科研项目": 0,
+            "撰写输出笔记": 0,
+            "撰写长文本": 0,
+            "导出学术文档": 0,
+            "追踪学者和组织": 0
+          }
+        },
+        "Outputs/demo/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-04-22T20:41:47.988Z",
       "total": 0,
       "drafts": {
