@@ -8,7 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7f402cae5a211e8",
+            "id": "ac07410f9c2efd4a",
+            "type": "leaf",
+            "state": {
+              "type": "fluent-task-genius-view",
+              "state": {
+                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
+                "viewMode": "list",
+                "viewModeByViewId": {
+                  "projects": "list"
+                },
+                "searchQuery": "",
+                "filters": {},
+                "filterInputValue": "",
+                "selectedProject": "打金",
+                "currentViewId": "projects"
+              },
+              "icon": "task-genius",
+              "title": "Task Genius"
+            }
+          },
+          {
+            "id": "09ab250882993787",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,27 +53,55 @@
             }
           },
           {
-            "id": "ac07410f9c2efd4a",
+            "id": "d5350f31f2e5ca56",
             "type": "leaf",
             "state": {
-              "type": "fluent-task-genius-view",
+              "type": "markdown",
               "state": {
-                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
-                "viewMode": "list",
-                "viewModeByViewId": {
-                  "table": "list"
-                },
-                "searchQuery": "",
-                "filters": {},
-                "filterInputValue": "",
-                "currentViewId": "table"
+                "file": "README/PaperBell用户文档/设计理念/未来功能规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "task-genius",
-              "title": "Task Genius"
+              "icon": "lucide-file",
+              "title": "未来功能规划"
+            }
+          },
+          {
+            "id": "ca895fe2c988a5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -292,12 +341,18 @@
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "notebook-navigator:笔记本导航器": false
+      "notebook-navigator:笔记本导航器": false,
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "ead4bfbc796445a9",
+  "active": "ca895fe2c988a5bc",
   "lastOpenFiles": [
+    "未命名.md",
     "Projects（项目）/薅羊毛打金软件.md",
+    "README/PaperBell用户文档/设计理念/未来功能规划.md",
+    "Projects（项目）/ABSESpy.md",
+    "Projects（项目）/obsidian实现电脑本地文件的管理.md",
+    "Projects（项目）/PaperBell.md",
     "Outputs/demo/source/DEMO_讨论.md",
     "AI提示词.md",
     "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
@@ -325,7 +380,6 @@
     "README/插件说明/English-Made-Easy 语言插件.md",
     "Home/脚本/修复项目统计20220530.md",
     "Outputs/demo/DEMO_manuscript.md",
-    "Projects（项目）/obsidian实现电脑本地文件的管理.md",
     "Projects（项目）/本地 生词本.md 文件.md",
     "2026-04-15计划通.md"
   ]

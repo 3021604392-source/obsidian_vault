@@ -362,6 +362,14 @@
         "color": "#f1c40f",
         "createdAt": 1776293506194,
         "updatedAt": 1776293506194
+      },
+      {
+        "id": "project-1777240794474-fy1jdbb72",
+        "name": "打金",
+        "displayName": "打金",
+        "color": "#e74c3c",
+        "createdAt": 1777240794474,
+        "updatedAt": 1777240794474
       }
     ]
   },
@@ -1003,7 +1011,7 @@
       "ws_1776290829752_gyuk40qhb": {
         "id": "ws_1776290829752_gyuk40qhb",
         "name": "Default",
-        "updatedAt": 1777237466698,
+        "updatedAt": 1777244379253,
         "settings": {
           "fluentFilterState": {
             "inbox": {
@@ -1013,23 +1021,9 @@
             },
             "today": {
               "filters": {},
-              "selectedProject": "山海经综合体",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1776891972238",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1776891972238",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "山海经综合体"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1043,31 +1037,31 @@
             },
             "gantt": {
               "filters": {},
-              "selectedProject": "山海经综合体",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1776891972238",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1776891972238",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "山海经综合体"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "projects": {
               "filters": {},
+              "selectedProject": "打金",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1777244378702",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1777244378702",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "打金"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1078,19 +1072,19 @@
             },
             "quadrant": {
               "filters": {},
-              "selectedProject": "山海经综合体",
+              "selectedProject": "打金",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1776293719917",
+                    "id": "fluent-proj-group-1777240795923",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1776293719917",
+                        "id": "fluent-proj-filter-1777240795923",
                         "property": "project",
                         "condition": "is",
-                        "value": "山海经综合体"
+                        "value": "打金"
                       }
                     ]
                   }
@@ -1100,45 +1094,17 @@
             },
             "calendar": {
               "filters": {},
-              "selectedProject": "山海经综合体",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1776891972238",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1776891972238",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "山海经综合体"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "kanban": {
               "filters": {},
-              "selectedProject": "山海经综合体",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1776891972238",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1776891972238",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "山海经综合体"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1173,14 +1139,28 @@
             },
             "table": {
               "filters": {},
+              "selectedProject": "打金",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1777240795923",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1777240795923",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "打金"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "table"
+          "fluentActiveViewId": "projects"
         }
       }
     }
