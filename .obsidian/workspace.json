@@ -11,6 +11,16 @@
             "id": "c2e19a62f4efee6b",
             "type": "leaf",
             "state": {
+              "type": "task-genius-onboarding",
+              "state": {},
+              "icon": "task-genius",
+              "title": "Setup"
+            }
+          },
+          {
+            "id": "a7f402cae5a211e8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects（项目）/薅羊毛打金软件.md",
@@ -274,7 +284,7 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "ead4bfbc796445a9",
+  "active": "c2e19a62f4efee6b",
   "lastOpenFiles": [
     "Projects（项目）/薅羊毛打金软件.md",
     "Outputs/demo/source/DEMO_讨论.md",

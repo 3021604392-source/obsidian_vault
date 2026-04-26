@@ -24,10 +24,10 @@
     "enableTray": false
   },
   "countSubLevel": false,
-  "displayMode": "bracketFraction",
+  "displayMode": "custom",
   "customFormat": "[{{COMPLETED}}/{{TOTAL}}]",
-  "showPercentage": false,
-  "customizeProgressRanges": false,
+  "showPercentage": true,
+  "customizeProgressRanges": true,
   "progressRanges": [
     {
       "min": 0,
@@ -55,8 +55,8 @@
       "text": "即将完成 {{PROGRESS}}% "
     }
   ],
-  "allowCustomProgressGoal": false,
-  "hideProgressBarBasedOnConditions": false,
+  "allowCustomProgressGoal": true,
+  "hideProgressBarBasedOnConditions": true,
   "hideProgressBarTags": "no-progress,hide-progress",
   "hideProgressBarFolders": "",
   "hideProgressBarMetadata": "hide-progress-bar",
@@ -78,11 +78,11 @@
   "excludeTaskMarks": "",
   "useOnlyCountMarks": false,
   "onlyCountTaskMarks": "x|X|>|/",
-  "enableTaskStatusSwitcher": false,
+  "enableTaskStatusSwitcher": true,
   "enableIndicatorWithCheckbox": false,
-  "enableCustomTaskMarks": false,
+  "enableCustomTaskMarks": true,
   "enableTextMarkInSourceMode": false,
-  "enableCycleCompleteStatus": false,
+  "enableCycleCompleteStatus": true,
   "taskStatusCycle": [
     "Not Started",
     "In Progress",
@@ -122,9 +122,9 @@
     }
   ],
   "enableTaskGeniusIcons": false,
-  "enablePriorityPicker": false,
+  "enablePriorityPicker": true,
   "enablePriorityKeyboardShortcuts": false,
-  "enableDatePicker": false,
+  "enableDatePicker": true,
   "recurrenceDateBase": "due",
   "taskFilter": {
     "enableTaskFilter": false,
@@ -134,7 +134,7 @@
     "enableTaskGutter": false
   },
   "completedTaskMover": {
-    "enableCompletedTaskMover": false,
+    "enableCompletedTaskMover": true,
     "taskMarkerType": "date",
     "versionMarker": "version 1.0",
     "dateMarker": "归档于 {{date}}",
@@ -142,7 +142,7 @@
     "treatAbandonedAsCompleted": false,
     "completeAllMovedTasks": true,
     "withCurrentFileLink": true,
-    "enableAutoMove": false,
+    "enableAutoMove": true,
     "defaultTargetFile": "Archive.md",
     "defaultInsertionMode": "end",
     "defaultHeadingName": "Completed Tasks",
@@ -169,7 +169,7 @@
       "folder": "",
       "template": ""
     },
-    "enableMinimalMode": false,
+    "enableMinimalMode": true,
     "minimalModeSettings": {
       "suggestTrigger": "/"
     },
@@ -211,10 +211,10 @@
   },
   "workflow": {
     "enableWorkflow": true,
-    "autoAddTimestamp": false,
+    "autoAddTimestamp": true,
     "timestampFormat": "YYYY-MM-DD HH:mm:ss",
     "removeTimestampOnTransition": false,
-    "calculateSpentTime": false,
+    "calculateSpentTime": true,
     "spentTimeFormat": "HH:mm:ss",
     "calculateFullSpentTime": false,
     "autoRemoveLastStageMarker": false,
@@ -299,8 +299,8 @@
   },
   "fileMetadataInheritance": {
     "enabled": true,
-    "inheritFromFrontmatter": false,
-    "inheritFromFrontmatterForSubtasks": false
+    "inheritFromFrontmatter": true,
+    "inheritFromFrontmatterForSubtasks": true
   },
   "projectConfig": {
     "enableEnhancedProject": true,
@@ -366,14 +366,14 @@
     ]
   },
   "fileParsingConfig": {
-    "enableFileMetadataParsing": false,
+    "enableFileMetadataParsing": true,
     "metadataFieldsToParseAsTasks": [
       "dueDate",
       "todo",
       "complete",
       "task"
     ],
-    "enableTagBasedTaskParsing": false,
+    "enableTagBasedTaskParsing": true,
     "tagsToParseAsTasks": [
       "#todo",
       "#task",
@@ -397,28 +397,6 @@
   "globalFilterRules": {},
   "viewConfiguration": [
     {
-      "id": "today",
-      "name": "今天",
-      "icon": "calendar-days",
-      "type": "default",
-      "visible": true,
-      "region": "top",
-      "hideCompletedAndAbandonedTasks": true,
-      "filterBlanks": false,
-      "filterRules": {}
-    },
-    {
-      "id": "upcoming",
-      "name": "Upcoming",
-      "icon": "calendar",
-      "type": "default",
-      "visible": true,
-      "region": "top",
-      "hideCompletedAndAbandonedTasks": true,
-      "filterBlanks": false,
-      "filterRules": {}
-    },
-    {
       "id": "inbox",
       "name": "收件箱",
       "icon": "inbox",
@@ -426,8 +404,7 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false,
-      "region": "top"
+      "filterBlanks": false
     },
     {
       "id": "working-on",
@@ -437,8 +414,7 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false,
-      "region": "top"
+      "filterBlanks": false
     },
     {
       "id": "forecast",
@@ -452,8 +428,7 @@
       "specificConfig": {
         "viewType": "forecast",
         "hideWeekends": false
-      },
-      "region": "top"
+      }
     },
     {
       "id": "projects",
@@ -463,8 +438,7 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": false,
       "filterRules": {},
-      "filterBlanks": false,
-      "region": "top"
+      "filterBlanks": false
     },
     {
       "id": "tags",
@@ -474,8 +448,7 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": false,
       "filterRules": {},
-      "filterBlanks": false,
-      "region": "top"
+      "filterBlanks": false
     },
     {
       "id": "flagged",
@@ -485,8 +458,7 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false,
-      "region": "top"
+      "filterBlanks": false
     },
     {
       "id": "review",
@@ -496,95 +468,7 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": false,
       "filterRules": {},
-      "filterBlanks": false,
-      "region": "top"
-    },
-    {
-      "id": "table",
-      "name": "表格",
-      "icon": "table",
-      "type": "default",
-      "visible": true,
-      "hideCompletedAndAbandonedTasks": false,
-      "filterRules": {},
-      "filterBlanks": false,
-      "specificConfig": {
-        "viewType": "table",
-        "enableTreeView": true,
-        "enableLazyLoading": true,
-        "pageSize": 50,
-        "enableInlineEditing": true,
-        "visibleColumns": [
-          "status",
-          "content",
-          "priority",
-          "dueDate",
-          "startDate",
-          "scheduledDate",
-          "tags",
-          "project",
-          "context",
-          "filePath"
-        ],
-        "columnWidths": {
-          "status": 80,
-          "content": 300,
-          "priority": 100,
-          "dueDate": 120,
-          "startDate": 120,
-          "scheduledDate": 120,
-          "createdDate": 120,
-          "completedDate": 120,
-          "tags": 150,
-          "project": 150,
-          "context": 120,
-          "recurrence": 120,
-          "estimatedTime": 120,
-          "actualTime": 120,
-          "filePath": 200
-        },
-        "sortableColumns": true,
-        "resizableColumns": true,
-        "showRowNumbers": true,
-        "enableRowSelection": true,
-        "enableMultiSelect": true,
-        "defaultSortField": "",
-        "defaultSortOrder": "asc"
-      },
-      "region": "top"
-    },
-    {
-      "id": "quadrant",
-      "name": "矩阵",
-      "icon": "layout-grid",
-      "type": "default",
-      "visible": true,
-      "hideCompletedAndAbandonedTasks": false,
-      "filterRules": {},
-      "filterBlanks": false,
-      "specificConfig": {
-        "viewType": "quadrant",
-        "hideEmptyQuadrants": false,
-        "autoUpdatePriority": true,
-        "autoUpdateTags": true,
-        "showTaskCount": true,
-        "defaultSortField": "priority",
-        "defaultSortOrder": "desc",
-        "urgentTag": "#urgent",
-        "importantTag": "#important",
-        "urgentThresholdDays": 3,
-        "usePriorityForClassification": false,
-        "urgentPriorityThreshold": 4,
-        "importantPriorityThreshold": 3,
-        "customQuadrantColors": false,
-        "quadrantColors": {
-          "urgentImportant": "#dc3545",
-          "notUrgentImportant": "#28a745",
-          "urgentNotImportant": "#ffc107",
-          "notUrgentNotImportant": "#6c757d"
-        }
-      },
-      "region": "top"
+      "filterBlanks": false
     },
     {
       "id": "calendar",
@@ -649,11 +533,96 @@
       "filterRules": {},
       "filterBlanks": false,
       "region": "bottom"
+    },
+    {
+      "id": "table",
+      "name": "表格",
+      "icon": "table",
+      "type": "default",
+      "visible": true,
+      "hideCompletedAndAbandonedTasks": false,
+      "filterRules": {},
+      "filterBlanks": false,
+      "specificConfig": {
+        "viewType": "table",
+        "enableTreeView": true,
+        "enableLazyLoading": true,
+        "pageSize": 50,
+        "enableInlineEditing": true,
+        "visibleColumns": [
+          "status",
+          "content",
+          "priority",
+          "dueDate",
+          "startDate",
+          "scheduledDate",
+          "tags",
+          "project",
+          "context",
+          "filePath"
+        ],
+        "columnWidths": {
+          "status": 80,
+          "content": 300,
+          "priority": 100,
+          "dueDate": 120,
+          "startDate": 120,
+          "scheduledDate": 120,
+          "createdDate": 120,
+          "completedDate": 120,
+          "tags": 150,
+          "project": 150,
+          "context": 120,
+          "recurrence": 120,
+          "estimatedTime": 120,
+          "actualTime": 120,
+          "filePath": 200
+        },
+        "sortableColumns": true,
+        "resizableColumns": true,
+        "showRowNumbers": true,
+        "enableRowSelection": true,
+        "enableMultiSelect": true,
+        "defaultSortField": "",
+        "defaultSortOrder": "asc"
+      }
+    },
+    {
+      "id": "quadrant",
+      "name": "矩阵",
+      "icon": "layout-grid",
+      "type": "default",
+      "visible": true,
+      "hideCompletedAndAbandonedTasks": false,
+      "filterRules": {},
+      "filterBlanks": false,
+      "specificConfig": {
+        "viewType": "quadrant",
+        "hideEmptyQuadrants": false,
+        "autoUpdatePriority": true,
+        "autoUpdateTags": true,
+        "showTaskCount": true,
+        "defaultSortField": "priority",
+        "defaultSortOrder": "desc",
+        "urgentTag": "#urgent",
+        "importantTag": "#important",
+        "urgentThresholdDays": 3,
+        "usePriorityForClassification": false,
+        "urgentPriorityThreshold": 4,
+        "importantPriorityThreshold": 3,
+        "customQuadrantColors": false,
+        "quadrantColors": {
+          "urgentImportant": "#dc3545",
+          "notUrgentImportant": "#28a745",
+          "urgentNotImportant": "#ffc107",
+          "notUrgentNotImportant": "#6c757d"
+        }
+      }
     }
   ],
   "reviewSettings": {},
   "rewards": {
-    "enableRewards": false,
+    "enableRewards": true,
     "rewardItems": [
       {
         "id": "reward-tea",
@@ -727,7 +696,7 @@
     }
   ],
   "autoDateManager": {
-    "enabled": false,
+    "enabled": true,
     "manageCompletedDate": true,
     "manageStartDate": true,
     "manageCancelledDate": true,
@@ -739,7 +708,7 @@
     "cancelledDateMarker": "❌"
   },
   "betaTest": {
-    "enableBaseView": false
+    "enableBaseView": true
   },
   "icsIntegration": {
     "sources": [],
@@ -753,7 +722,7 @@
     "defaultEventColor": "#3b82f6"
   },
   "timelineSidebar": {
-    "enableTimelineSidebar": false,
+    "enableTimelineSidebar": true,
     "autoOpenOnStartup": false,
     "showCompletedTasks": true,
     "focusModeByDefault": false,
@@ -765,7 +734,7 @@
     "quickInputShowQuickActions": true
   },
   "fileFilter": {
-    "enabled": false,
+    "enabled": true,
     "mode": "blacklist",
     "rules": [],
     "scopeControls": {
@@ -877,8 +846,8 @@
   "onboarding": {
     "completed": false,
     "version": "9.13.1",
-    "configMode": "beginner",
-    "skipOnboarding": true,
+    "configMode": "power",
+    "skipOnboarding": false,
     "completedAt": ""
   },
   "fileSource": {
