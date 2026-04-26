@@ -397,6 +397,28 @@
   "globalFilterRules": {},
   "viewConfiguration": [
     {
+      "id": "today",
+      "name": "今天",
+      "icon": "calendar-days",
+      "type": "default",
+      "visible": true,
+      "region": "top",
+      "hideCompletedAndAbandonedTasks": true,
+      "filterBlanks": false,
+      "filterRules": {}
+    },
+    {
+      "id": "upcoming",
+      "name": "Upcoming",
+      "icon": "calendar",
+      "type": "default",
+      "visible": true,
+      "region": "top",
+      "hideCompletedAndAbandonedTasks": true,
+      "filterBlanks": false,
+      "filterRules": {}
+    },
+    {
       "id": "inbox",
       "name": "收件箱",
       "icon": "inbox",
@@ -404,7 +426,8 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false
+      "filterBlanks": false,
+      "region": "top"
     },
     {
       "id": "working-on",
@@ -458,7 +481,8 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false
+      "filterBlanks": false,
+      "region": "top"
     },
     {
       "id": "review",
@@ -670,7 +694,21 @@
   },
   "habit": {
     "enableHabits": true,
-    "habits": []
+    "habits": [
+      {
+        "id": "17772373386312vg9bpk",
+        "name": "打金",
+        "icon": "circle-check",
+        "type": "scheduled",
+        "events": [
+          {
+            "name": "薅羊毛",
+            "details": ""
+          }
+        ],
+        "propertiesMap": {}
+      }
+    ]
   },
   "filterConfig": {
     "enableSavedFilters": true,
@@ -847,7 +885,7 @@
     "completed": false,
     "version": "9.13.1",
     "configMode": "power",
-    "skipOnboarding": false,
+    "skipOnboarding": true,
     "completedAt": ""
   },
   "fileSource": {
@@ -965,7 +1003,7 @@
       "ws_1776290829752_gyuk40qhb": {
         "id": "ws_1776290829752_gyuk40qhb",
         "name": "Default",
-        "updatedAt": 1777162116971,
+        "updatedAt": 1777237466698,
         "settings": {
           "fluentFilterState": {
             "inbox": {
@@ -974,11 +1012,6 @@
               "viewMode": "tree"
             },
             "today": {
-              "filters": {},
-              "advancedFilter": null,
-              "viewMode": "list"
-            },
-            "habit": {
               "filters": {},
               "selectedProject": "山海经综合体",
               "advancedFilter": {
@@ -997,6 +1030,14 @@
                     ]
                   }
                 ]
+              },
+              "viewMode": "list"
+            },
+            "habit": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1024,23 +1065,9 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "山海经综合体",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1776891972238",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1776891972238",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "山海经综合体"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1100,28 +1127,6 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1776293513786",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1776293513786",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "山海经综合体"
-                      }
-                    ]
-                  }
-                ]
-              },
-              "viewMode": "list"
-            },
-            "working-on": {
-              "filters": {},
-              "selectedProject": "山海经综合体",
-              "advancedFilter": {
-                "rootCondition": "all",
-                "filterGroups": [
-                  {
                     "id": "fluent-proj-group-1776891972238",
                     "groupCondition": "all",
                     "filters": [
@@ -1137,13 +1142,45 @@
               },
               "viewMode": "list"
             },
+            "working-on": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
+              "viewMode": "list"
+            },
             "tags": {
               "filters": {},
               "advancedFilter": null,
               "viewMode": "list"
+            },
+            "upcoming": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
+              "viewMode": "list"
+            },
+            "review": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
+              "viewMode": "list"
+            },
+            "table": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
+              "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "habit"
+          "fluentActiveViewId": "table"
         }
       }
     }
