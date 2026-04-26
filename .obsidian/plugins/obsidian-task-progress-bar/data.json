@@ -876,9 +876,9 @@
   "customDateFormats": [],
   "onboarding": {
     "completed": false,
-    "version": "",
+    "version": "9.13.1",
     "configMode": "beginner",
-    "skipOnboarding": false,
+    "skipOnboarding": true,
     "completedAt": ""
   },
   "fileSource": {
@@ -996,7 +996,7 @@
       "ws_1776290829752_gyuk40qhb": {
         "id": "ws_1776290829752_gyuk40qhb",
         "name": "Default",
-        "updatedAt": 1776892070347,
+        "updatedAt": 1777162116971,
         "settings": {
           "fluentFilterState": {
             "inbox": {

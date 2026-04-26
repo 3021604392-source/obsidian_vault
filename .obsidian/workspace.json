@@ -8,55 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d9d9994f340881f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "fluent-task-genius-view",
-              "state": {
-                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
-                "viewMode": "list",
-                "viewModeByViewId": {
-                  "habit": "list"
-                },
-                "searchQuery": "",
-                "filters": {},
-                "filterInputValue": "",
-                "selectedProject": "山海经综合体",
-                "currentViewId": "habit"
-              },
-              "pinned": true,
-              "icon": "task-genius",
-              "title": "Task Genius"
-            }
-          },
-          {
-            "id": "53b7ae8a194aa0b2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI提示词.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "AI提示词"
-            }
-          },
-          {
             "id": "c2e19a62f4efee6b",
             "type": "leaf",
             "state": {
@@ -80,8 +31,7 @@
               "title": "薅羊毛打金软件"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,8 +90,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
             }
           },
           {
@@ -303,6 +253,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -317,7 +268,6 @@
       "obsidian-english-made-easy:高亮笔记": false,
       "obsidian-git:Open Git source control": false,
       "soundscapes:Soundscapes: My Music": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
