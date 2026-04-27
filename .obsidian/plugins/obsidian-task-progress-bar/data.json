@@ -1011,7 +1011,7 @@
       "ws_1776290829752_gyuk40qhb": {
         "id": "ws_1776290829752_gyuk40qhb",
         "name": "Default",
-        "updatedAt": 1777244379253,
+        "updatedAt": 1777249838825,
         "settings": {
           "fluentFilterState": {
             "inbox": {
@@ -1045,50 +1045,25 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "打金",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1777244378702",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1777244378702",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "打金"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "forecast": {
               "filters": {},
-              "advancedFilter": null,
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
               "viewMode": "list"
             },
             "quadrant": {
               "filters": {},
-              "selectedProject": "打金",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1777240795923",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1777240795923",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "打金"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1118,7 +1093,10 @@
             },
             "tags": {
               "filters": {},
-              "advancedFilter": null,
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
               "viewMode": "list"
             },
             "upcoming": {
@@ -1139,28 +1117,14 @@
             },
             "table": {
               "filters": {},
-              "selectedProject": "打金",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1777240795923",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1777240795923",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "打金"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "table"
         }
       }
     }

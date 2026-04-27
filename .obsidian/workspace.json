@@ -16,13 +16,12 @@
                 "currentWorkspace": "ws_1776290829752_gyuk40qhb",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "projects": "list"
+                  "table": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "selectedProject": "打金",
-                "currentViewId": "projects"
+                "currentViewId": "table"
               },
               "icon": "task-genius",
               "title": "Task Genius"
@@ -34,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects（项目）/薅羊毛打金软件.md",
+                "file": "Projects（项目）/番茄音乐.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "薅羊毛打金软件"
+              "title": "番茄音乐"
             }
           },
           {
@@ -77,12 +76,12 @@
             }
           },
           {
-            "id": "ca895fe2c988a5bc",
+            "id": "f4dfd3d9d1ac692c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Projects（项目）/打金软件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -97,11 +96,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "打金软件"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,15 +339,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "notebook-navigator:笔记本导航器": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "ca895fe2c988a5bc",
+  "active": "ac07410f9c2efd4a",
   "lastOpenFiles": [
-    "未命名.md",
-    "Projects（项目）/薅羊毛打金软件.md",
+    "QuickCapture.md",
+    "Projects（项目）/打金软件.md",
+    "Projects（项目）/番茄音乐.md",
+    "未命名 1.md",
     "README/PaperBell用户文档/设计理念/未来功能规划.md",
+    "未命名.md",
     "Projects（项目）/ABSESpy.md",
     "Projects（项目）/obsidian实现电脑本地文件的管理.md",
     "Projects（项目）/PaperBell.md",
@@ -380,7 +380,6 @@
     "README/插件说明/English-Made-Easy 语言插件.md",
     "Home/脚本/修复项目统计20220530.md",
     "Outputs/demo/DEMO_manuscript.md",
-    "Projects（项目）/本地 生词本.md 文件.md",
-    "2026-04-15计划通.md"
+    "Projects（项目）/本地 生词本.md 文件.md"
   ]
 }
