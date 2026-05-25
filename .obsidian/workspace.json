@@ -11,20 +11,24 @@
             "id": "ac07410f9c2efd4a",
             "type": "leaf",
             "state": {
-              "type": "fluent-task-genius-view",
+              "type": "markdown",
               "state": {
-                "currentWorkspace": "ws_1776290829752_gyuk40qhb",
-                "viewMode": "list",
-                "viewModeByViewId": {
-                  "table": "list"
-                },
-                "searchQuery": "",
-                "filters": {},
-                "filterInputValue": "",
-                "currentViewId": "table"
+                "file": "Projects（项目）/番茄音乐.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "task-genius",
-              "title": "Task Genius"
+              "icon": "lucide-file",
+              "title": "番茄音乐"
             }
           },
           {
@@ -339,10 +343,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "notebook-navigator:笔记本导航器": false
+      "notebook-navigator:笔记本导航器": false,
+      "obsidian-task-progress-bar:打开 Task Genius 视图": false
     }
   },
-  "active": "ead4bfbc796445a9",
+  "active": "ac07410f9c2efd4a",
   "lastOpenFiles": [
     "QuickCapture.md",
     "Projects（项目）/打金软件.md",
