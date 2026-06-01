@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects（项目）/番茄音乐.md",
+                "file": "Literature（文献）/一云梯.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "番茄音乐"
+              "title": "一云梯"
             }
           },
           {
@@ -176,8 +176,7 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -343,15 +342,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "notebook-navigator:笔记本导航器": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false
+      "notebook-navigator:笔记本导航器": false
     }
   },
   "active": "ac07410f9c2efd4a",
   "lastOpenFiles": [
+    "Projects（项目）/番茄音乐.md",
     "QuickCapture.md",
     "Projects（项目）/打金软件.md",
-    "Projects（项目）/番茄音乐.md",
     "未命名 1.md",
     "README/PaperBell用户文档/设计理念/未来功能规划.md",
     "未命名.md",
