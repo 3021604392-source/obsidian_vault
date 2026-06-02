@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature（文献）/一云梯.md",
+                "file": "Courses（课程）/Go + Hugo + HTML5 静态网站学习计划 & 配套资料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "一云梯"
-            }
-          },
-          {
-            "id": "09ab250882993787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects（项目）/番茄音乐.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "番茄音乐"
-            }
-          },
-          {
-            "id": "d5350f31f2e5ca56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README/PaperBell用户文档/设计理念/未来功能规划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未来功能规划"
+              "title": "Go + Hugo + HTML5 静态网站学习计划 & 配套资料"
             }
           },
           {
@@ -103,7 +55,8 @@
               "title": "打金软件"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +129,8 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -345,13 +299,15 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "ac07410f9c2efd4a",
+  "active": "ead4bfbc796445a9",
   "lastOpenFiles": [
-    "Projects（项目）/番茄音乐.md",
-    "QuickCapture.md",
     "Projects（项目）/打金软件.md",
-    "未命名 1.md",
+    "Projects（项目）/番茄音乐.md",
     "README/PaperBell用户文档/设计理念/未来功能规划.md",
+    "Courses（课程）/Go + Hugo + HTML5 静态网站学习计划 & 配套资料.md",
+    "Literature（文献）/一云梯.md",
+    "QuickCapture.md",
+    "未命名 1.md",
     "未命名.md",
     "Projects（项目）/ABSESpy.md",
     "Projects（项目）/obsidian实现电脑本地文件的管理.md",
@@ -381,8 +337,6 @@
     "2026",
     "README/插件说明/Metadata Menu 元数据编辑插件.md",
     "README/插件说明/English-Made-Easy 语言插件.md",
-    "Home/脚本/修复项目统计20220530.md",
-    "Outputs/demo/DEMO_manuscript.md",
-    "Projects（项目）/本地 生词本.md 文件.md"
+    "Home/脚本/修复项目统计20220530.md"
   ]
 }
