@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "right": {
     "id": "0950427cbc1a4d26",
@@ -296,15 +296,18 @@
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "notebook-navigator:笔记本导航器": false,
-      "obsidian-task-progress-bar:打开 Task Genius 视图": false
+      "notebook-navigator:笔记本导航器": false
     }
   },
   "active": "f4dfd3d9d1ac692c",
   "lastOpenFiles": [
+    "Projects（项目）/初版个人网站需求.md",
+    "Pasted image 20260604214819.png",
+    "Pasted image 20260604214753.png",
+    "Pasted image 20260604212927.png",
+    "Pasted image 20260604212837.png",
     "Projects（项目）/打金软件.md",
     "Projects（项目）/未命名.md",
-    "Projects（项目）/初版个人网站需求.md",
     "Projects（项目）/番茄音乐.md",
     "README/PaperBell用户文档/设计理念/未来功能规划.md",
     "Courses（课程）/Go + Hugo + HTML5 静态网站学习计划 & 配套资料.md",
@@ -324,10 +327,6 @@
     "Pasted image 20260421041841.png",
     "Pasted image 20260421041829.png",
     "Pasted image 20260421041740.png",
-    "Pasted image 20260421041651.png",
-    "Pasted image 20260421041631.png",
-    "Pasted image 20260421041600.png",
-    "Pasted image 20260421041511.png",
     "Literature（文献）/未命名.md",
     "Literature（文献）/突破个人能力天花板，和 AI 协作的 12 个范式.md",
     "Literature（文献）/玩了一个月 AI，我发现 99% 的视频都在骗你.md",
@@ -337,7 +336,6 @@
     "Projects（项目）/AI/sd.md",
     "2026/20260420.md",
     "2026-04-20.md",
-    "2026",
-    "README/插件说明/Metadata Menu 元数据编辑插件.md"
+    "2026"
   ]
 }
