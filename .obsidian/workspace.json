@@ -54,6 +54,20 @@
               "icon": "lucide-file",
               "title": "初版个人网站需求"
             }
+          },
+          {
+            "id": "a6de6f7d5ada74d9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV1XV411n7Qx/?vd_source=7aa101dd0f12e9ec47933ace7fc7a47b",
+                "title": "86个HTML&CSS小项目_哔哩哔哩_bilibili",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "86个HTML&CSS小项目_哔哩哔哩_bilibili"
+            }
           }
         ],
         "currentTab": 1
@@ -299,9 +313,15 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "f4dfd3d9d1ac692c",
+  "active": "ead4bfbc796445a9",
   "lastOpenFiles": [
     "Projects（项目）/初版个人网站需求.md",
+    "Pasted image 20260604224901.png",
+    "Pasted image 20260604224755.png",
+    "Pasted image 20260604223406.png",
+    "Pasted image 20260604223402.png",
+    "Pasted image 20260604223337.png",
+    "Pasted image 20260604223010.png",
     "Pasted image 20260604214819.png",
     "Pasted image 20260604214753.png",
     "Pasted image 20260604212927.png",
@@ -321,12 +341,6 @@
     "Outputs/demo/source/DEMO_讨论.md",
     "AI提示词.md",
     "Literature（文献）/小众 AI 可视化：Mermaid 一键生成图表.md",
-    "Pasted image 20260421042227.png",
-    "Pasted image 20260421042103.png",
-    "Pasted image 20260421041923.png",
-    "Pasted image 20260421041841.png",
-    "Pasted image 20260421041829.png",
-    "Pasted image 20260421041740.png",
     "Literature（文献）/未命名.md",
     "Literature（文献）/突破个人能力天花板，和 AI 协作的 12 个范式.md",
     "Literature（文献）/玩了一个月 AI，我发现 99% 的视频都在骗你.md",
