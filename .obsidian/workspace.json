@@ -54,20 +54,6 @@
               "icon": "lucide-file",
               "title": "初版个人网站需求"
             }
-          },
-          {
-            "id": "a6de6f7d5ada74d9",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1XV411n7Qx/?vd_source=7aa101dd0f12e9ec47933ace7fc7a47b",
-                "title": "86个HTML&CSS小项目_哔哩哔哩_bilibili",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "86个HTML&CSS小项目_哔哩哔哩_bilibili"
-            }
           }
         ],
         "currentTab": 1
@@ -313,9 +299,10 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "ead4bfbc796445a9",
+  "active": "f4dfd3d9d1ac692c",
   "lastOpenFiles": [
     "Projects（项目）/初版个人网站需求.md",
+    "Courses（课程）/Go + Hugo + HTML5 静态网站学习计划 & 配套资料.md",
     "Pasted image 20260604224901.png",
     "Pasted image 20260604224755.png",
     "Pasted image 20260604223406.png",
@@ -330,7 +317,6 @@
     "Projects（项目）/未命名.md",
     "Projects（项目）/番茄音乐.md",
     "README/PaperBell用户文档/设计理念/未来功能规划.md",
-    "Courses（课程）/Go + Hugo + HTML5 静态网站学习计划 & 配套资料.md",
     "Literature（文献）/一云梯.md",
     "QuickCapture.md",
     "未命名 1.md",
