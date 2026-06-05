@@ -55,8 +55,7 @@
               "title": "初版个人网站需求"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,7 +298,7 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "f4dfd3d9d1ac692c",
+  "active": "ac07410f9c2efd4a",
   "lastOpenFiles": [
     "Projects（项目）/初版个人网站需求.md",
     "Courses（课程）/Go + Hugo + HTML5 静态网站学习计划 & 配套资料.md",
